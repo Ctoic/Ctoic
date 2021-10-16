@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with people new in the field of Computer Science 
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to Novels ,Soccer and Musical Instruments
+- ⚡ Fun fact: I love to read Novels ,play Soccer and Musical Instruments
 
 ### Languages and Tools:
 
