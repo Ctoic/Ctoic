@@ -5,9 +5,9 @@
 
 ## I'm Student, Developer, and Teacher!!
 
-- 🔭 I just launched my Blogs about Programming:
+- 🔭 Just started Career as programmer
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with people new in the field of Computer Science 
+- 👯 I’m looking to collaborate with geeks 
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read Novels ,play Soccer and Musical Instruments
 
