@@ -14,8 +14,7 @@
 
 ### Languages and Tools:
 
-
-![1200px-Python svg](https://user-images.githubusercontent.com/90936436/144038874-89b88b9e-bb06-4a37-a099-77361e163f5f.png)
+![1200px-Python svg](https://user-images.githubusercontent.com/90936436/144039043-9c37d60a-bf43-43f3-82eb-7c183c5a18e1.png)
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
