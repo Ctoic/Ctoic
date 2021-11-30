@@ -14,7 +14,7 @@
 
 ### Languages and Tools:
 
-![python-socket-programming](https://user-images.githubusercontent.com/90936436/144039443-479a7ae9-71da-4ca5-ba07-c27124e68078.jpg)
+
 ![python-socket-programming (1)](https://user-images.githubusercontent.com/90936436/144039731-bd2fe897-ee14-4cd0-82bc-2c92fdf2919e.jpg)
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
