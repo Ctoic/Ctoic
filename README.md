@@ -30,7 +30,7 @@
 <!-- YOUTUBE:START -->
 Comming Soon ! 
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos...](https://www.youtube.com/channel/UC4ZY1JKm3nuqX3XcCf9l0xQ)
 
 ---
 
@@ -39,7 +39,7 @@ Comming Soon !
 <!-- BLOG-POST-LIST:START -->
 Commming SOOn!
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://www.youtube.com/channel/UC4ZY1JKm3nuqX3XcCf9l0xQodestackr.com)
 
 ---
 
