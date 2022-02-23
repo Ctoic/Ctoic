@@ -15,7 +15,7 @@ Here is my LInkedIn Id:-
 - 🔭 Just started Career as programmer
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with geeks 
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read Novels ,play Soccer and Musical Instruments
 
 
