@@ -16,7 +16,9 @@ Here is my LInkedIn Id:-
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with geeks 
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to read Novels ,play Soccer and Musical Instruments
+- ⚡ Fun fact: I'm a football player ,love to read Novels(Sci-fi) ,active social worker and truth seeker ;)
+- Fact002: I can speak 7 languages excluding prograamming languages ;)
+- 
 
 
 ### Languages and Tools:
