@@ -7,7 +7,7 @@ Email:
 Here is my LInkedIn Id :
 
 [https://www.linkedin.com/in/najam-ali-abbas-614211216]
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<ctoic>&theme=<Dark>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<ctoic>" />
 
 ## I'm Student, Developer, and Teacher!!
 
