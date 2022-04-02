@@ -6,6 +6,7 @@ Email:
 
 And Picsart :) [https://picsart.com/najamaliabass]
 
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 
 Here is my LInkedIn Id:-
 [https://www.linkedin.com/in/najam-ali-abbas-614211216]
