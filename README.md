@@ -34,6 +34,9 @@ Here is my LInkedIn Id:-
 ### Vistors :)
 ![Visitor Count](https://profile-counter.glitch.me/{Ctoic}/count.svg)
 
+
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
