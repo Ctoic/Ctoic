@@ -6,7 +6,7 @@ Email:
 
 
 Here is my LInkedIn Id:-
-[https://www.linkedin.com/in/najam-ali-abbas-614211216]
+[https://www.linkedin.com/in/najam-ali-abbas]
 
 ## I'm Student, Developer, and Teacher!!
 
