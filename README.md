@@ -1,14 +1,6 @@
 ### Hi there, I'm Najam Ali Abbas - aka [Ctoic] 👋
 [![Twitter Follow](https://img.shields.io/twitter/follow/Ct0ic?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FCtOic&screen_name=Ct0ic)
 
-Email:
-[najamabass2020@gmail.com]
-
-Here is my LInkedIn Id :
-
-[https://www.linkedin.com/in/najam-ali-abbas-614211216]
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<ctoic>" />
-
 ## I'm Student, Developer, and Teacher!!
 
 - 🔭 Just started Career as programmer
@@ -16,9 +8,7 @@ Here is my LInkedIn Id :
 - 👯 I’m looking to collaborate with geeks 
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I'm a football player ,love to read Novels(Sci-fi) ,active social worker and truth seeker ;)
-- Fact002: I can speak 7 languages excluding prograamming languages ;)
-- 
-
+- ⚡ Fact : I can speak 7 languages excluding prograamming languages 
 
 ### Languages and Tools:
 
