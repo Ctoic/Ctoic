@@ -39,7 +39,7 @@ And Picsart :) [https://picsart.com/najamaliabass]
 <!-- BLOG-POST-LIST:START -->
 Commming SOOn!
 
-➡️ [more blog posts...](https://www.youtube.com/channel/UC4ZY1JKm3nuqX3XcCf9l0xQodestackr.com)
+➡️ [more blog posts...](https://makethehack.com/)
 
 ---
 
