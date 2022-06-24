@@ -25,7 +25,7 @@
 ### Vistors :)
 ![Visitor Count](https://profile-counter.glitch.me/{Ctoic}/count.svg)
 ### 📺 Latest YouTube Videos
-
+And Picsart: [https://picsart.com/najamaliabass]
 <!-- YOUTUBE:START -->
 Comming Soon ! 
 
@@ -34,8 +34,6 @@ Comming Soon !
 ---
 
 ### 📕 Latest Blog Posts
-And Picsart :) [https://picsart.com/najamaliabass]
-
 <!-- BLOG-POST-LIST:START -->
 Commming SOOn!
 
