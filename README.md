@@ -26,9 +26,9 @@
 ### Vistors :)
 ![Visitor Count](https://profile-counter.glitch.me/{Ctoic}/count.svg)
 ### 📺 Latest YouTube Videos
-And Picsart: [https://picsart.com/najamaliabass]
+
 <!-- YOUTUBE:START -->
-Comming Soon ! 
+Click the link below to find my youtube channel 👇
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC4ZY1JKm3nuqX3XcCf9l0xQ)
 
@@ -36,7 +36,7 @@ Comming Soon !
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-Commming SOOn!
+Find Latest Blogs about Computer Science and new trends here 👇
 
 ➡️ [more blog posts...](https://makethehack.com/)
 # GIst
