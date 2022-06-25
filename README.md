@@ -39,7 +39,7 @@ Comming Soon !
 Commming SOOn!
 
 ➡️ [more blog posts...](https://makethehack.com/)
-#GIst
+# GIst
 https://gist.github.com/Ctoic
 
 ---
