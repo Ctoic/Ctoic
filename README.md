@@ -39,8 +39,8 @@ Click the link below to find my youtube channel 👇
 Find Latest Blogs about Computer Science and new trends here 👇
 
 ➡️ [more blog posts...](https://makethehack.com/)
-# GIst
-https://gist.github.com/Ctoic
+# GITHUB GIST 👇
+# https://gist.github.com/Ctoic
 
 ---
 
