@@ -17,7 +17,6 @@
 ![Top-Uses-Of-C (1)](https://user-images.githubusercontent.com/90936436/144039991-07337a23-077d-4290-bf80-5f3d0c1be6c4.jpg)
 ![Ekran-Resmi-2019-11-18-18 08 13](https://user-images.githubusercontent.com/90936436/144040190-0dce9b3f-999e-4f35-87ea-5f4a5fb4d5ce.png)
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
