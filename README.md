@@ -11,6 +11,12 @@
 - ⚡ Fun fact: I'm a football player ,love to read Novels(Sci-fi) ,active social worker and truth seeker ;)
 - ⚡ Fact : I can speak 7 languages excluding prograamming languages 
 
+### Portfolio
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
 ### Languages and Tools:
 
 
