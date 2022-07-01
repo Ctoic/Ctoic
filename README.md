@@ -48,7 +48,10 @@ Find Latest Blogs about Computer Science and new trends here 👇
 # https://gist.github.com/Ctoic
 
 ---
-
+  ### MY States 🔥
+  https://github-readme-streak-stats.herokuapp.com/?user=Ctoic
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ctoic&theme=dark&background=000000)](https://git.io/streak-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ctoic)](https://github.com/anuraghazra/github-readme-stats)
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
@@ -58,10 +61,6 @@ Find Latest Blogs about Computer Science and new trends here 👇
 5. 🎉 Merged PR [#10](http
 <!--END_SECTION:activity-->
 
-  ### MY States 🔥
-  https://github-readme-streak-stats.herokuapp.com/?user=Ctoic
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ctoic&theme=dark&background=000000)](https://git.io/streak-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ctoic)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 <details>
