@@ -40,9 +40,6 @@
 ![Visitor Count](https://profile-counter.glitch.me/{Ctoic}/count.svg)
 ### 📺 Latest YouTube Videos
 
-<!-- YOUTUBE:START -->
-Click the link below to find my youtube channel 👇
-
 ➡️ [more videos...](https://www.youtube.com/channel/UC4ZY1JKm3nuqX3XcCf9l0xQ)
 
 ---
