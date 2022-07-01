@@ -51,7 +51,6 @@
 ![Visitor Count](https://profile-counter.glitch.me/{Ctoic}/count.svg)
 ### 📺 Latest YouTube Videos
 
-➡️ [more videos...]
 <a href="https://www.youtube.com/channel/UC4ZY1JKm3nuqX3XcCf9l0xQ/featured">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
