@@ -25,6 +25,7 @@
 
 ### Vistors :)
 ![Visitor Count](https://profile-counter.glitch.me/{Ctoic}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{Ctoic}/count.svg)
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
