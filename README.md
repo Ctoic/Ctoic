@@ -1,7 +1,4 @@
 ### Hi there, I'm Najam Ali Abbas - aka [Ctoic] 
-<h3> 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h3>
 [![Twitter Follow](https://img.shields.io/twitter/follow/Ct0ic?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FCtOic&screen_name=Ct0ic)
 
 ## I'm Student, Developer, and Teacher!!
@@ -61,6 +58,10 @@ Find Latest Blogs about Computer Science and new trends here 👇
 5. 🎉 Merged PR [#10](http
 <!--END_SECTION:activity-->
 
+  ### MY States 🔥
+  https://github-readme-streak-stats.herokuapp.com/?user=Ctoic
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ctoic&theme=dark&background=000000)](https://git.io/streak-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ctoic)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 <details>
