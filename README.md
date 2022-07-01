@@ -12,10 +12,7 @@
 - ⚡ Fact : I can speak 7 languages excluding prograamming languages 
 
 
-
-
 ### Languages and Tools:
-
 
 ![python-socket-programming (1)](https://user-images.githubusercontent.com/90936436/144039731-bd2fe897-ee14-4cd0-82bc-2c92fdf2919e.jpg)
 ![Top-Uses-Of-C (1)](https://user-images.githubusercontent.com/90936436/144039991-07337a23-077d-4290-bf80-5f3d0c1be6c4.jpg)
@@ -26,7 +23,13 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
 
-### Vistors :)
+### Social Accounts
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</div>
+
 
 ![Visitor Count](https://profile-counter.glitch.me/{Ctoic}/count.svg)
 ### 📺 Latest YouTube Videos
