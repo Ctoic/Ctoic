@@ -1,4 +1,7 @@
-### Hi there, I'm Najam Ali Abbas - aka [Ctoic] 👋
+### Hi there, I'm Najam Ali Abbas - aka [Ctoic] 
+<h3> 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h3>
 [![Twitter Follow](https://img.shields.io/twitter/follow/Ct0ic?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FCtOic&screen_name=Ct0ic)
 
 ## I'm Student, Developer, and Teacher!!
@@ -11,11 +14,8 @@
 - ⚡ Fun fact: I'm a football player ,love to read Novels(Sci-fi) ,active social worker and truth seeker ;)
 - ⚡ Fact : I can speak 7 languages excluding prograamming languages 
 
-### Portfolio
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+
+
 
 ### Languages and Tools:
 
