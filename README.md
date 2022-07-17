@@ -21,7 +21,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   
-  ![Alt text](/home/ctoic/Downloads/C++.png "Optional title")
+![C++](https://user-images.githubusercontent.com/90936436/179395964-dc4c524b-a1e3-4cb5-be7f-ebb1ee02262b.png)
+
  
 </div>
 
