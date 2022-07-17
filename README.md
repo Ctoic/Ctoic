@@ -58,7 +58,7 @@ anva](https://user-images.githubusercontent.com/90936436/179396731-1c69b94b-8af9
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-![[infotech](https://user-images.githubusercontent.com/90936436/179422812-f4162d37-11b3-4004-86f3-b40c56f66996.png)](https://makethehack.com/blog)
+[![infotech](https://user-images.githubusercontent.com/90936436/179422812-f4162d37-11b3-4004-86f3-b40c56f66996.png)](https://makethehack.com/blog)
 
 
 
