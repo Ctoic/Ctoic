@@ -13,7 +13,8 @@
 
 
 ### Languages and Tools:
-<div>
+<div>![Untitled design (2)](https://user-images.githubusercontent.com/90936436/179396219-088a2f09-6dd2-4ed4-b386-b77fbd883541.png)
+![Untitled design](https://user-images.githubusercontent.com/90936436/179396235-f0de401b-ee52-440a-a71a-367e3c692ca1.png)
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -21,7 +22,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   
-![C++](https://user-images.githubusercontent.com/90936436/179395964-dc4c524b-a1e3-4cb5-be7f-ebb1ee02262b.png)
+![Untitled design (3)](https://user-images.githubusercontent.com/90936436/179396257-12155192-7ee8-41af-a85b-d61ea883fdac.png)
+![Untitled design (4)](https://user-images.githubusercontent.com/90936436/179396263-21731d7c-e6be-4472-8cb7-e8dc1766c017.png)
+
+![Untitled design (5)](https://user-images.githubusercontent.com/90936436/179396265-a8d4578d![Untitled design (7)](https://user-images.githubusercontent.com/90936436/179396271-9d31dbd9-6622-42d0-9dbb-b178eecb1282.png)
+-c782-4537-a920-fdd7582b4208.png)
+![Untitled design (6)](https://user-images.githubusercontent.com/90936436/179396277-bb8d7fbd-e1b2-42ed-9741-1f73d945e92f.png)
 
  
 </div>
