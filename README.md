@@ -58,8 +58,8 @@ anva](https://user-images.githubusercontent.com/90936436/179396731-1c69b94b-8af9
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-➡️ [more blog posts...]
-![C++i](https://user-images.githubusercontent.com/90936436/179397564-d2d0b598-9b9b-4bee-925e-8e5b253f7fab.png)(https://makethehack.com/)
+![infotech](https://user-images.githubusercontent.com/90936436/179422812-f4162d37-11b3-4004-86f3-b40c56f66996.png)(https://makethehack.com/blog)
+
 
 
 # GITHUB GIST 👇
