@@ -58,11 +58,9 @@ anva](https://user-images.githubusercontent.com/90936436/179396731-1c69b94b-8af9
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-Find Latest Blogs about Computer Science and new trends here 👇
-[<img alt="alt_text" width="40px" src="home/ctoic/Downloads/C++i.png" />](https://www.google.com/)
-
 ➡️ [more blog posts...]
-![C++i](https://user-images.githubusercontent.com/90936436/179397336-a7f4606e-e8c9-48ae-9ee1-8d56e31f5363.png)(https://makethehack.com)
+![C++i](https://user-images.githubusercontent.com/90936436/179397564-d2d0b598-9b9b-4bee-925e-8e5b253f7fab.png)(https://makethehack.com/)
+
 
 # GITHUB GIST 👇
 # https://gist.github.com/Ctoic
