@@ -14,7 +14,8 @@
 
 ### Languages and Tools:
 <div>
-  ![Untitled design (2)](https://user-images.githubusercontent.com/90936436/179396377-39bb17c2-db66-4460-b24f-78059c5267e1.png)
+
+![python](https://user-images.githubusercontent.com/90936436/179396459-fe4179e0-d0d3-4ef9-b3c2-d5887d1b1aa3.png)
 
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
