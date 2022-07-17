@@ -24,8 +24,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   
 ![wp](https://user-images.githubusercontent.com/90936436/179396710-7453d1a7-1791-4133-8dd8-f3b28db59496.png)
+![c![Matlab](https://user-images.githubusercontent.com/90936436/179396773-0aff67e8-9ebb-40e4-9359-302584f7b3ba.png)
+anva](https://user-images.githubusercontent.com/90936436/179396731-1c69b94b-8af9-4d36-913e-579fe80695ee.png)
 
-![canva](https://user-images.githubusercontent.com/90936436/179396731-1c69b94b-8af9-4d36-913e-579fe80695ee.png)
 
  
  
