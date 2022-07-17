@@ -58,8 +58,9 @@ anva](https://user-images.githubusercontent.com/90936436/179396731-1c69b94b-8af9
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-
-<img width="75" alt="infosol" src="https://user-images.githubusercontent.com/90936436/179423210-272ca488-5cbd-467f-bbf2-3de4674c1f8a.png">(https://makethehack.com/blog)
+<a href="https://makethehack.com/blog">
+    <img src="https://user-images.githubusercontent.com/90936436/179423210-272ca488-5cbd-467f-bbf2-3de4674c1f8a.png"/>
+  </a>
 
 
 # GITHUB GIST 👇
