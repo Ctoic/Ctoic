@@ -28,6 +28,8 @@
 anva](https://user-images.githubusercontent.com/90936436/179396731-1c69b94b-8af9-4d36-913e-579fe80695ee.png)
 ![Matlab](https://user-images.githubusercontent.com/90936436/179396828-be052a8d-0007-4943-811c-979389beeece.png)
 ![Untitled design (4)](https://user-images.githubusercontent.com/90936436/179396850-48c434a0-5727-4509-86e7-add67072cad6.png)
+  ![photoshop](https://user-images.githubusercontent.com/90936436/179396969-af4843e5-17c9-4445-a93d-f9757d3063cc.png)
+
 </div>
 
 ### Social Accounts
