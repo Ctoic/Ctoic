@@ -23,8 +23,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="
-  ![Untitled design (6)](https://user-images.githubusercontent.com/90936436/179396612-15163290-c4a8-4e63-b525-f8b4eae9036f.png)
-40"/>&nbsp;
+
   
  
  
