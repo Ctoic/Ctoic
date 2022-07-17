@@ -61,7 +61,8 @@ anva](https://user-images.githubusercontent.com/90936436/179396731-1c69b94b-8af9
 Find Latest Blogs about Computer Science and new trends here 👇
 
 ➡️ [more blog posts...]
-# (https://makethehack.com/blog)
+![C++i](https://user-images.githubusercontent.com/90936436/179397336-a7f4606e-e8c9-48ae-9ee1-8d56e31f5363.png)(https://makethehack.com)
+
 # GITHUB GIST 👇
 # https://gist.github.com/Ctoic
 
