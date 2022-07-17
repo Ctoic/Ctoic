@@ -13,10 +13,10 @@
 
 
 ### Languages and Tools:
-![python-socket-programming (1)](https://user-images.githubusercontent.com/90936436/144039731-bd2fe897-ee14-4cd0-82bc-2c92fdf2919e.jpg)
+<div>
+  ![python-socket-programming (1)](https://user-images.githubusercontent.com/90936436/144039731-bd2fe897-ee14-4cd0-82bc-2c92fdf2919e.jpg)
 ![Top-Uses-Of-C (1)](https://user-images.githubusercontent.com/90936436/144039991-07337a23-077d-4290-bf80-5f3d0c1be6c4.jpg)
 ![Ekran-Resmi-2019-11-18-18 08 13](https://user-images.githubusercontent.com/90936436/144040190-0dce9b3f-999e-4f35-87ea-5f4a5fb4d5ce.png)
-<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
