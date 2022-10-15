@@ -68,10 +68,10 @@ We created this website to help those who are new in the field of Computer Scien
 # https://gist.github.com/Ctoic
 
 ---
-  ### MY States 🔥
+  # MY States 🔥
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ctoic&theme=dark&background=000000)](https://git.io/streak-stats)
   
-  ### Language used 
+  #Language used 
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ctoic)](https://github.com/anuraghazra/github-readme-stats)
 
  
