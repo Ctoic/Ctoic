@@ -58,10 +58,10 @@ anva](https://user-images.githubusercontent.com/90936436/179396731-1c69b94b-8af9
 
 ### 📕 Latest Blog Posts visit our website by clicking the image below
 <!-- BLOG-POST-LIST:START -->
-We created this website to help those who are new in the field of Computer Science.
 <a href="https://makethehack.com/blog">
     <img src="https://user-images.githubusercontent.com/90936436/179423210-272ca488-5cbd-467f-bbf2-3de4674c1f8a.png"/>
   </a>
+  We created this website to help those who are new in the field of Computer Science.
 
 
 # GITHUB GIST 👇
