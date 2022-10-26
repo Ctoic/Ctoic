@@ -65,7 +65,7 @@ anva](https://user-images.githubusercontent.com/90936436/179396731-1c69b94b-8af9
 
 
 # GITHUB GIST 👇
-# https://gist.github.com/Ctoic
+## https://gist.github.com/Ctoic
 
 # Github Repo
 ## https://github.com/Ctoic?tab=repositories
