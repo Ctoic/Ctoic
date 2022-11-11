@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with geeks 
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- 🥅 2022 Goals: Contribute Daily to open source 
+- 🥅 2022 Goals: Contribute Daily to open source it means 365 commits this year
 - ⚡ Fun fact: I'm a football player ,love to read Novels(Sci-fi) ,active social worker and truth seeker ;)
 - ⚡ Fact : I can speak 7 languages excluding prograamming languages 
 
