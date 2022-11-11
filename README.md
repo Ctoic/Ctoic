@@ -33,12 +33,12 @@ anva](https://user-images.githubusercontent.com/90936436/179396731-1c69b94b-8af9
 
 </div>
 ## 📕 Latest Blog Posts visit our website by clicking the image below
- We created this website to help those who are new in the field of Computer Science.
+<div>
 <!-- BLOG-POST-LIST:START -->
     <a href="https://makethehack.com/blog">
         <img src="https://user-images.githubusercontent.com/90936436/179423210-272ca488-5cbd-467f-bbf2-3de4674c1f8a.png"/>
       </a>
-
+</div>
 ### Social Accounts
 <div id="badges">
   <a href="https://www.linkedin.com/in/najam-ali-abbas-614211216/">
