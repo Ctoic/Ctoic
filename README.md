@@ -11,6 +11,20 @@
 - ⚡ Fun fact: I'm a football player ,love to read Novels(Sci-fi) ,active social worker and truth seeker ;)
 - ⚡ Fact : I can speak 7 languages excluding prograamming languages 
 
+<div>
+  # Quote of the day 
+  
+  
+  
+  
+  ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
+  
+  
+  
+  
+  
+  </div>
+
 
 ### Languages and Tools:
 <div>
