@@ -29,31 +29,9 @@ anva](https://user-images.githubusercontent.com/90936436/179396731-1c69b94b-8af9
   ![photoshop](https://user-images.githubusercontent.com/90936436/179396969-af4843e5-17c9-4445-a93d-f9757d3063cc.png)
   ![premier](https://user-images.githubusercontent.com/90936436/179396999-b6063dfe-1ee5-4929-bd6b-e8267f9ff5b4.png)
 
-
-</div>
-
-
-
-
-# Quote of the day 
-
-
-
-
-<div>
-  
-  
+ 
 
   
-  
-  ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
-  
-  
-  
-  
-  
-  </div>
-
 ## 📕 Latest Blog Posts visit our website by clicking the image below
 
 
@@ -114,6 +92,10 @@ anva](https://user-images.githubusercontent.com/90936436/179396731-1c69b94b-8af9
 ---
   # MY States 🔥
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ctoic&theme=dark&background=000000)](https://git.io/streak-stats)
+  
+  
+  [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Ctoic&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Ctoic/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Ctoic&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Ctoic/github-readme-stats#gh-light-mode-only)
   
   # Language used 
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ctoic)](https://github.com/anuraghazra/github-readme-stats)
