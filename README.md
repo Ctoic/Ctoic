@@ -30,25 +30,10 @@ anva](https://user-images.githubusercontent.com/90936436/179396731-1c69b94b-8af9
   ![premier](https://user-images.githubusercontent.com/90936436/179396999-b6063dfe-1ee5-4929-bd6b-e8267f9ff5b4.png)
 
  
-
   
-## 📕 Latest Blog Posts visit our website by clicking the image below
-
-
-
-<div>
-<!-- BLOG-POST-LIST:START -->
-  <p 
-     align="center"> <a href="https://makethehack.com/blog"></a>
-  </p>
-    <a href="https://makethehack.com/blog">
-        <img src="https://user-images.githubusercontent.com/90936436/179423210-272ca488-5cbd-467f-bbf2-3de4674c1f8a.png"/>
-      </a>
-</div>
-
-
-
-### Social Accounts
+  
+  
+  ### Social Accounts
 <div id="badges">
   <a href="https://www.linkedin.com/in/najam-ali-abbas-614211216/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -75,6 +60,25 @@ anva](https://user-images.githubusercontent.com/90936436/179396731-1c69b94b-8af9
 
 
 </details>
+
+
+
+  
+## 📕 Latest Blog Posts visit our website by clicking the image below
+
+
+
+<div>
+<!-- BLOG-POST-LIST:START -->
+  <p 
+     align="center"> <a href="https://makethehack.com/blog"></a>
+  </p>
+    <a href="https://makethehack.com/blog">
+        <img src="https://user-images.githubusercontent.com/90936436/179423210-272ca488-5cbd-467f-bbf2-3de4674c1f8a.png"/>
+      </a>
+</div>
+
+
 
 
 
