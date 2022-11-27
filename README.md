@@ -60,6 +60,23 @@ anva](https://user-images.githubusercontent.com/90936436/179396731-1c69b94b-8af9
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+  
+  
+  ---
+  # MY States 🔥
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ctoic&theme=dark&background=000000)](https://git.io/streak-stats)
+  
+  
+  [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Ctoic&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Ctoic/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Ctoic&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Ctoic/github-readme-stats#gh-light-mode-only)
+  
+  # Language used 
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ctoic)](https://github.com/anuraghazra/github-readme-stats)
+
+
+</details>
+
+
 
 ### Visitors
 ![Visitor Count](https://profile-counter.glitch.me/{Ctoic}/count.svg)
@@ -89,19 +106,7 @@ anva](https://user-images.githubusercontent.com/90936436/179396731-1c69b94b-8af9
 # Github Repo
 ## https://github.com/Ctoic?tab=repositories
 
----
-  # MY States 🔥
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ctoic&theme=dark&background=000000)](https://git.io/streak-stats)
-  
-  
-  [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Ctoic&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Ctoic/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Ctoic&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Ctoic/github-readme-stats#gh-light-mode-only)
-  
-  # Language used 
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ctoic)](https://github.com/anuraghazra/github-readme-stats)
 
-
-</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
