@@ -3,7 +3,7 @@
 
 ## I'm Student, Developer, and Teacher!!
 
-- 🔭 Just started Career as programmer
+- 🔭 Diving deep in the programming world
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with geeks 
 - 🥅 2022 Goals: Contribute more to Open Source projects
