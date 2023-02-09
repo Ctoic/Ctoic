@@ -11,6 +11,8 @@
 - ⚡ Fun fact: I'm a football player ,love to read Novels(Sci-fi) ,active social worker and truth seeker ;)
 - ⚡ Fact : I can speak 7 languages excluding prograamming languages 
 - 🥅 2023 Solve Hacker Rank Questions 
+- 🤔 Fyp:NLP , AI/ML , Improvements in current softwares
+
 
 ### Languages and Tools:
 <div>
@@ -79,6 +81,10 @@ anva](https://user-images.githubusercontent.com/90936436/179396731-1c69b94b-8af9
 </div>
 
 
+# Fyp
+1. what problems it solves ?
+2. Better than previous solutions 
+3. 
 
 
 
