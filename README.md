@@ -10,7 +10,7 @@
 - 🥅 2022 Goals: Contribute Daily to open source it means 365 commits this year
 - ⚡ Fun fact: I'm a football player ,love to read Novels(Sci-fi) ,active social worker and truth seeker ;)
 - ⚡ Fact : I can speak 7 languages excluding prograamming languages 
-
+- 🥅 2023 Solve Hacker Rank Questions 
 
 ### Languages and Tools:
 <div>
