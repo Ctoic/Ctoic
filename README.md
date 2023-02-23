@@ -1,4 +1,15 @@
 ## Hi there, I'm Najam Ali Abbas - aka [Ctoic] 👋
+
+
+
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2NkMjBkYTVkZTZjMzZkOWRmNGQ4NmE5ZGExMDNhZjVmZjJiNDk1MSZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+
+
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/Ct0ic?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FCtOic&screen_name=Ct0ic)
 
 ## I'm Student, Developer, and Teacher!!
