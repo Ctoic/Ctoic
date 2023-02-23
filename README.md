@@ -1,6 +1,5 @@
-<div align="center">
-  ## Hi there, I'm Najam Ali Abbas - aka [Ctoic] 👋
-  </div>
+## Hi there, I'm Najam Ali Abbas - aka [Ctoic] 👋
+
   
 
 <div id="header" align="center">
