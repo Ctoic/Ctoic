@@ -7,6 +7,14 @@
 </div>
 
 
+<div id="header" align="center">
+  <img
+       src="file:///home/ctoic/Documents/Final/0_7Q3yvSIv_t0ioJ-Z.gif" width="100"/>
+  </div>
+  
+  
+  
+
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Ct0ic?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FCtOic&screen_name=Ct0ic)
