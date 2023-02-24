@@ -10,7 +10,6 @@
 <div id="header" align="center">
   <img
        src="file:///home/ctoic/Documents/Final/0_7Q3yvSIv_t0ioJ-Z.gif" width="100"/>
-    ### Social Accounts
 <div id="badges">
   <a href="https://www.linkedin.com/in/najam-ali-abbas-614211216/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -24,12 +23,7 @@
 </div>
   </div>
   
-  
-  
-
-
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/Ct0ic?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FCtOic&screen_name=Ct0ic)
+ 
 
 ## I'm Student, Developer, and Teacher!!
 
@@ -69,6 +63,8 @@ anva](https://user-images.githubusercontent.com/90936436/179396731-1c69b94b-8af9
   
   [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Ctoic&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Ctoic/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Ctoic&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Ctoic/github-readme-stats#gh-light-mode-only)
+ 
+  [![Twitter Follow](https://img.shields.io/twitter/follow/Ct0ic?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FCtOic&screen_name=Ct0ic)
   
   # Language used 
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ctoic)](https://github.com/anuraghazra/github-readme-stats)
