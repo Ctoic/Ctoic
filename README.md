@@ -10,6 +10,18 @@
 <div id="header" align="center">
   <img
        src="file:///home/ctoic/Documents/Final/0_7Q3yvSIv_t0ioJ-Z.gif" width="100"/>
+    ### Social Accounts
+<div id="badges">
+  <a href="https://www.linkedin.com/in/najam-ali-abbas-614211216/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UC4ZY1JKm3nuqX3XcCf9l0xQ/featured">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/Ct0ic">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
   </div>
   
   
@@ -48,23 +60,6 @@ anva](https://user-images.githubusercontent.com/90936436/179396731-1c69b94b-8af9
 ![Untitled design (4)](https://user-images.githubusercontent.com/90936436/179396850-48c434a0-5727-4509-86e7-add67072cad6.png)
   ![photoshop](https://user-images.githubusercontent.com/90936436/179396969-af4843e5-17c9-4445-a93d-f9757d3063cc.png)
   ![premier](https://user-images.githubusercontent.com/90936436/179396999-b6063dfe-1ee5-4929-bd6b-e8267f9ff5b4.png)
-
- 
-  
-  
-  
-  ### Social Accounts
-<div id="badges">
-  <a href="https://www.linkedin.com/in/najam-ali-abbas-614211216/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UC4ZY1JKm3nuqX3XcCf9l0xQ/featured">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/Ct0ic">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
   
   
   ---
