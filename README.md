@@ -66,7 +66,7 @@ anva](https://user-images.githubusercontent.com/90936436/179396731-1c69b94b-8af9
  
   [![Twitter Follow](https://img.shields.io/twitter/follow/Ct0ic?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FCtOic&screen_name=Ct0ic)
  
-  <div align="left">
+  <div id="header" align="left">
   # Language used 
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ctoic)](https://github.com/anuraghazra/github-readme-stats)
   </div>
