@@ -56,6 +56,7 @@ anva](https://user-images.githubusercontent.com/90936436/179396731-1c69b94b-8af9
   ![premier](https://user-images.githubusercontent.com/90936436/179396999-b6063dfe-1ee5-4929-bd6b-e8267f9ff5b4.png)
   
   
+ </div>
   ---
   # MY States 🔥
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ctoic&theme=dark&background=000000)](https://git.io/streak-stats)
@@ -75,11 +76,11 @@ anva](https://user-images.githubusercontent.com/90936436/179396731-1c69b94b-8af9
 
 
   
-## 📕 Latest Blog Posts visit our website by clicking the image below
+## 📕 Latest Blog Posts visit our website by clicking the image below(currently down will get back soon)
 
 
 
-<div id = "header" align = "right">
+<div id = "header" align = "center">
 <!-- BLOG-POST-LIST:START -->
   <p> <a href="https://makethehack.com/blog"></a>
   </p>
@@ -87,14 +88,6 @@ anva](https://user-images.githubusercontent.com/90936436/179396731-1c69b94b-8af9
         <img src="https://user-images.githubusercontent.com/90936436/179423210-272ca488-5cbd-467f-bbf2-3de4674c1f8a.png"/>
       </a>
 </div>
-
-
-# Fyp
-1. what problems it solves ?
-2. Better than previous solutions 
-3. 
-
-
 
 ### Visitors
 ![Visitor Count](https://profile-counter.glitch.me/{Ctoic}/count.svg)
