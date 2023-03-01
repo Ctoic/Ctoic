@@ -106,22 +106,13 @@ anva](https://user-images.githubusercontent.com/90936436/179396731-1c69b94b-8af9
 <a href="https://www.youtube.com/channel/UC4ZY1JKm3nuqX3XcCf9l0xQ/featured">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  
-  
-  
-  
-  
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/ztY4yLhfhrI?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  
-  
-  
-  
+   
 
 
 # GITHUB GIST 👇
 ## https://gist.github.com/Ctoic
 
-<p>
+<div id="header" align="center">
 
   
   
@@ -130,14 +121,7 @@ anva](https://user-images.githubusercontent.com/90936436/179396731-1c69b94b-8af9
   
   
 
-
-
-</p>
-
-# Github Repo
-## https://github.com/Ctoic?tab=repositories
-
-
+</di>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
