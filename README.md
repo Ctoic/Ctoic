@@ -79,6 +79,12 @@ anva](https://user-images.githubusercontent.com/90936436/179396731-1c69b94b-8af9
 
 </div>
 
+| Column 1 | Column 2 |
+| -------- | -------- |
+| Row 1, Column 1 | Row 1, Column 2 |
+| Row 2, Column 1 | Row 2, Column 2 |
+
+
 
 
   
