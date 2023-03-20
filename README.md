@@ -81,7 +81,6 @@ anva](https://user-images.githubusercontent.com/90936436/179396731-1c69b94b-8af9
 
 | Column 1 | Column 2 |
 | -------- | -------- |
-| [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ctoic&theme=dark&background=000000)](https://git.io/streak-stats)
   
   
   [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Ctoic&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Ctoic/github-readme-stats#gh-dark-mode-only)
