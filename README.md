@@ -94,6 +94,7 @@ anva](https://user-images.githubusercontent.com/90936436/179396731-1c69b94b-8af9
 </div>
 
 | Visitors | | GITHUB GIST | Youtube | 
+| -------- | | ----------- | | --------|
 | ![Visitor Count](https://profile-counter.glitch.me/{Ctoic}/count.svg) | <a href="https://www.youtube.com/channel/UC4ZY1JKm3nuqX3XcCf9l0xQ/featured">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a> | https://gist.github.com/Ctoic |
