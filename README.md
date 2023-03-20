@@ -73,7 +73,7 @@ anva](https://user-images.githubusercontent.com/90936436/179396731-1c69b94b-8af9
 
 | -------- | -------- |
   
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Ctoic&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Ctoic/github-readme-stats#gh-light-mode-only)
+| [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Ctoic&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Ctoic/github-readme-stats#gh-light-mode-only) |
  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ctoic)](https://github.com/anuraghazra/github-readme-stats)|
 
 
@@ -110,19 +110,12 @@ anva](https://user-images.githubusercontent.com/90936436/179396731-1c69b94b-8af9
 
 <div id="header" align="center">
 
-  
+ 
   
   
   [![Github gists](https://gist-count.vercel.app/api?username=Ctoic)](https://gist.github.com/Ctoic)
   
-  | Blogs | Youtbe | GIthub Gists |
-| -------- | -------- | -------- |
-|  <a href="https://makethehack.com/blog">
-        <img src="https://user-images.githubusercontent.com/90936436/179423210-272ca488-5cbd-467f-bbf2-3de4674c1f8a.png"/>
-      </a> | Row 1, Column 2 | |      |
-| Row 2, Column 1 | Row 2, Column 2 | |      |
-
-
+  
 </div>
 
 <details>
