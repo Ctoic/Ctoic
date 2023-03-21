@@ -99,9 +99,19 @@ anva](https://user-images.githubusercontent.com/90936436/179396731-1c69b94b-8af9
         <img src="https://user-images.githubusercontent.com/90936436/179423210-272ca488-5cbd-467f-bbf2-3de4674c1f8a.png"/>
       </a>
 </div>
+
+
+
+
+
+
 | Visitors | Github Gist | Youtube |
 | -------- | -----------| --------|
 | ![Visitor Count](https://profile-counter.glitch.me/{Ctoic}/count.svg) | [https://gist.github.com/Ctoic](https://gist.github.com/Ctoic) | [![Youtube Badge](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC4ZY1JKm3nuqX3XcCf9l0xQ/featured) |
+
+
+
+
 
 ### 📺 Latest YouTube Videos
 
