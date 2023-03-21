@@ -76,26 +76,7 @@ anva](https://user-images.githubusercontent.com/90936436/179396731-1c69b94b-8af9
  
  
  
- 
 
- 
- 
- 
- 
- 
-  
-## 📕 Latest Blog Posts
-
-
-
-<div id = "header" align = "center">
-<!-- BLOG-POST-LIST:START -->
-  <p> <a href="https://makethehack.com/blog"></a>
-  </p>
-    <a href="https://makethehack.com/blog">
-        <img src="https://user-images.githubusercontent.com/90936436/179423210-272ca488-5cbd-467f-bbf2-3de4674c1f8a.png"/>
-      </a>
-</div>
 
 
 
