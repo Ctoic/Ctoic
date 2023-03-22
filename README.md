@@ -1,5 +1,4 @@
-## Hi there, I'm Najam Ali Abbas - aka [Ctoic] 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+Geeks+!;I'm+Najam+Ali+Abbas+;Doing+CS+From+Fast-Nuces;Currently+Learnng+Data+Science+)](https://git.io/typing-svg)
   
 
 <div id="header" align="center">
