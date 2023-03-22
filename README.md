@@ -49,6 +49,23 @@ anva](https://user-images.githubusercontent.com/90936436/179396731-1c69b94b-8af9
  </div>
  
   
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
  
  <div>
@@ -56,7 +73,7 @@ anva](https://user-images.githubusercontent.com/90936436/179396731-1c69b94b-8af9
   
   
   | GitHub Stats | Streak |
-
+| ------------ | ------ |
 |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctoic&layout=compact)](https://github.com/ctoic) | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ctoic&theme=dark&background=000000)](https://git.io/streak-stats) |
 
   
