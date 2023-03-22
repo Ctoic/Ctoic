@@ -57,7 +57,7 @@ anva](https://user-images.githubusercontent.com/90936436/179396731-1c69b94b-8af9
   
   | GitHub Stats | Streak |
 | ------------ | ------ |
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ctoic&show_icons=true&theme=default)](https://github.com/Ctoic/github-readme-stats) | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ctoic&theme=dark&background=000000)](https://git.io/streak-stats) |
+|  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctoic&layout=compact)](https://github.com/ctoic) | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ctoic&theme=dark&background=000000)](https://git.io/streak-stats) |
 
   
   
