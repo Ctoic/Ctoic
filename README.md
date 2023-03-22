@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+Geeks+!;I'm+Najam+Ali+Abbas+;Doing+CS+From+Fast-Nuces;Currently+Learnng+Data+Science+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=435&lines=Hello+Geeks+!;I'm+Najam+Ali+Abbas+;Doing+CS+From+Fast-Nuces;Currently+Learnng+Data+Science+)](https://git.io/typing-svg)
   
 
 <div id="header" align="center">
