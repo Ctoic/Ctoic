@@ -41,7 +41,10 @@
   
   
   </div>
+  
+  
   ### Languages and Tools:
+  
 <div>
 
 ![py](https://user-images.githubusercontent.com/90936436/179396520-68dae8d3-985c-4089-b68b-775ab792af0a.png)
