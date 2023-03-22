@@ -44,6 +44,19 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctoic&layout=compact)](https://github.com/ctoic)
  
 
+
+
+
+
+
+
+| Visitors | Gists Count | Youtube |
+| -------- | -----------| --------|
+| ![Visitor Count](https://profile-counter.glitch.me/{Ctoic}/count.svg) | [![Github gists](https://gist-count.vercel.app/api?username=Ctoic)](https://gist.github.com/Ctoic) | [![Youtube Badge](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC4ZY1JKm3nuqX3XcCf9l0xQ/featured) 
+
+
+
+ </div>
  
 ### Languages and Tools:
 <div>
@@ -64,19 +77,6 @@ anva](https://user-images.githubusercontent.com/90936436/179396731-1c69b94b-8af9
   
   
  </div>
-
-
-
-
-
-| Visitors | Gists Count | Youtube |
-| -------- | -----------| --------|
-| ![Visitor Count](https://profile-counter.glitch.me/{Ctoic}/count.svg) | [![Github gists](https://gist-count.vercel.app/api?username=Ctoic)](https://gist.github.com/Ctoic) | [![Youtube Badge](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC4ZY1JKm3nuqX3XcCf9l0xQ/featured) 
-
-
-
- </div>
-
 
 
 
