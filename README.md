@@ -25,19 +25,7 @@
 </div>
   </div>
   
- 
 
-## I'm Student, Developer, and Teacher!!
-
-- 🔭 Diving deep in the programming world
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with geeks 
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- 🥅 2022 Goals: Contribute Daily to open source it means 365 commits this year
-- ⚡ Fun fact: I'm a football player ,love to read Novels(Sci-fi) ,active social worker and truth seeker ;)
-- ⚡ Fact : I can speak 7 languages excluding prograamming languages 
-- 🥅 2023 Solve Hacker Rank Questions 
-- 🤔 Fyp:NLP , AI/ML , Improvements in current softwares
 
 
 ### Languages and Tools:
@@ -99,14 +87,21 @@ anva](https://user-images.githubusercontent.com/90936436/179396731-1c69b94b-8af9
 
 
 
+ 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+## I'm Student, Developer, and Teacher!!
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
+- 🔭 Diving deep in the programming world
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with geeks 
+- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute Daily to open source it means 365 commits this year
+- ⚡ Fun fact: I'm a football player ,love to read Novels(Sci-fi) ,active social worker and truth seeker ;)
+- ⚡ Fact : I can speak 7 languages excluding prograamming languages 
+- 🥅 2023 Solve Hacker Rank Questions 
+- 🤔 Fyp:NLP , AI/ML , Improvements in current softwares
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d343237626662266865696768743d3132302673656374696f6e3d666f6f746572](https://user-images.githubusercontent.com/90936436/226840038-7d4d0d3b-a59c-494f-ac44-840c36312889.svg)
 
 
