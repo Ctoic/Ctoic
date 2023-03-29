@@ -46,6 +46,9 @@
   </div>
   
   
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ctoic)](https://github.com/anuraghazra/github-readme-stats)
+  
+  
   ### Languages and Tools:
   
 <div>
