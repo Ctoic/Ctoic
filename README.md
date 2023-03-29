@@ -58,8 +58,12 @@
   
   </div>
   
-  
-  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ctoic)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://github.com/ctoic/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ctoic&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ctoic&repo=convoychat" />
+</a>
   
   
   ### Languages and Tools:
