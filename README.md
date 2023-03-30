@@ -46,11 +46,9 @@
   
   
  
- | Activity | Latest |
- | -------- | ------ |
+
   
- | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctoic&show_icons=true&theme=dark) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ctoic&repo=github-readme-stats)](https://github.com/ctoic/github-readme-stats) |
-  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctoic&show_icons=true&theme=dark) 
   
   
   
