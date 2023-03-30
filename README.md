@@ -40,9 +40,10 @@
   </div>
   
   
+  | Light Theme | Daark Theme |
+  | ------------ | ----------- | 
   
-  
-  [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=ctoic)](https://github.com/ctoic)
+|  [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=ctoic)](https://github.com/ctoic) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctoic&show_icons=true&theme=radical)
   
   
   
