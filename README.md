@@ -9,6 +9,9 @@
  
 </div>
 
+<br>
+
+
 <div id="header" align="center">
 <div id="badges">
   <a href="https://www.linkedin.com/in/najam-ali-abbas-614211216/">
@@ -22,6 +25,8 @@
   </a>
 </div>
   </div>
+
+<br>
 
 
 
