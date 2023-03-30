@@ -10,8 +10,6 @@
 </div>
 
 <div id="header" align="center">
-  <img
-       src="file:///home/ctoic/Documents/Final/0_7Q3yvSIv_t0ioJ-Z.gif" width="100"/>|  [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=ctoic)](https://github.com/ctoic) |
 <div id="badges">
   <a href="https://www.linkedin.com/in/najam-ali-abbas-614211216/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
