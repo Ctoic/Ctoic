@@ -103,8 +103,6 @@ https://www.codewars.com/users/Ctoic/badges/large
 
 
 
- ![github-metrics](https://user-images.githubusercontent.com/90936436/230071439-9f6932d9-b65a-42b2-af3c-37b50f272d10.svg)
-
 
 ## I'm Student, Developer, and Teacher!!
 
