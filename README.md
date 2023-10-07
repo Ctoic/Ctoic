@@ -38,7 +38,7 @@
   
   | GitHub Stats | Streak |
 | ------------ | ------ |
-|  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctoic&layout=compact)](https://github.com/ctoic) | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ctoic&theme=dark&background=000000)](https://git.io/streak-stats) |
+| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctoic&show_icons=true&bg_color=00000000) |
 
   
   
