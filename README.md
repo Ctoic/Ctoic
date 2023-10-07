@@ -30,6 +30,14 @@
 
 <br>
 
+<div align="center">
+
+![Ctoic's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctoic&show_icons=true&theme=transparent) 
+
+
+
+</div>
+
 
   <div align="center">
 
@@ -49,11 +57,11 @@
   
   </div>
   
-  <div>
+  <div align="center">
 
   
   
-![Ctoic's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctoic&show_icons=true&theme=transparent) 
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ctoic&theme=transparent)](https://git.io/streak-stats)
 
   
