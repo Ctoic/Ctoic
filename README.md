@@ -35,7 +35,7 @@
  <div>
   
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctoic&show_icons=true&bg_color=00000000)
+![Ctoic's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctoic&show_icons=true&bg_color=00000000)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctoic&layout=pie&bg_color=00000000)](https://github.com/ctoic/github-readme-stats)
   
   
@@ -50,8 +50,8 @@
  
 
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctoic&show_icons=true&theme=dark) 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ctoic&theme=dark)](https://git.io/streak-stats)
+![Ctoic's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctoic&show_icons=true&theme=transparent) 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ctoic&theme=transparent)](https://git.io/streak-stats)
 
   
   
