@@ -36,12 +36,21 @@
   
   
 ![Ctoic's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctoic&show_icons=true&bg_color=00000000)  
+
+
+
+
+
   </div>
   
   <br>
 
   <div>
+
+    
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctoic&layout=pie&bg_color=00000000)](https://github.com/ctoic/github-readme-stats)
+
+
   
   </div>
   
