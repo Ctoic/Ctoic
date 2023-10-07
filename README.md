@@ -36,9 +36,9 @@
   
   
   
-  | GitHub Stats | Streak |
+  | GitHub Stats | Streak | Streak |
 | ------------ | ------ |
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctoic&show_icons=true&bg_color=00000000) |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctoic)](https://github.com/ctoic/github-readme-stats) |
+| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctoic&show_icons=true&bg_color=00000000) |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctoic)](https://github.com/ctoic/github-readme-stats) | [![GitHub Streak](https://streak-stats.demolab.com/?user=ctoic&theme=dark)](https://git.io/streak-stats)
 
   
   
@@ -106,19 +106,15 @@ https://www.codewars.com/users/Ctoic/badges/large
 
 
 
-## I'm Student, Developer, and Teacher!!
+## I'm a Student, Developer, and Teacher!!
 
 - 🔭 Diving deep in the programming world
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with geeks 
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- 🥅 2022 Goals: Contribute Daily to open source it means 365 commits this year
-- ⚡ Fun fact: I'm a football player ,love to read Novels(Sci-fi) ,active social worker and truth seeker ;)
-- ⚡ Fact : I can speak 7 languages excluding prograamming languages 
+- 🥅 2022 Goals: Contribute Daily to open source which means 365 commits this year
+- ⚡ Fun fact: I'm a football player, love to read Novels(Sci-fi), active social worker, and a truth seeker ;)
+- ⚡ Fact: I can speak 7 languages excluding programming languages 
 - 🥅 2023 Solve Hacker Rank Questions 
-- 🤔 Fyp:NLP , AI/ML , Improvements in current softwares
-
-![Snake animation](https://github.com/ctoic/ctoic/blob/output/github-contribution-grid-snake.svg)
-![68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d343237626662266865696768743d3132302673656374696f6e3d666f6f746572](https://user-images.githubusercontent.com/90936436/226840038-7d4d0d3b-a59c-494f-ac44-840c36312889.svg)
-
+- 🤔 Fyp: NLP, AI/ML, Improvements in current software
 
