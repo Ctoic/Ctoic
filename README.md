@@ -66,7 +66,7 @@
 
   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctoic&layout=pie&bg_color=00000000)](https://github.com/ctoic/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctoic&layout=pie&bg_color=neon)](https://github.com/ctoic/github-readme-stats)
 
 
 
@@ -111,7 +111,7 @@
 
 
  
- [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma,python,bash,c,cs,cpp,css,html,discord,django,docker,eclipse,flask,git,github,idea,js,latex,linux,py,vim,vscodewordpress&theme=dark&perline=8)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma,python,bash,c,cs,cpp,css,html,discord,django,docker,eclipse,flask,git,github,idea,js,latex,linux,py,vim,vscodewordpress&theme=dark&perline=14)](https://skillicons.dev)
 
 
 
