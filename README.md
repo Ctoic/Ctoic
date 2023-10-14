@@ -95,23 +95,6 @@
    
    [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,cs,html,css,javascript,bash,bootstrap,django,flask,docker,eclipse,figma,github,ai,linux,md,netlify,vim,visualstudio,&theme=dark&perline=12)](https://skillicons.dev)
 
-   <div align="center">
-  <table>
-    <tr>
-      <h2>Top Programming Languages and Tools</h2>
-      <td align="center">
-        <a href="https://github.com/ctoic/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctoic&layout=compact&bg_color=00000000" alt="Top Langs" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=py,c,cpp,java,cs,html,css,javascript,bash,bootstrap,django,flask,docker,eclipse,figma,github,ai,linux,md,netlify,vim,visualstudio,&theme=dark&perline=7" alt="My Skills" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
 
 <div align="center">
   <table>
@@ -158,7 +141,9 @@
 - 👯 I’m looking to collaborate with geeks 
 - 🥅 2022 Goals: Contribute more to open-source projects
 - 🥅 2022 Goals: Contribute Daily to open source which means 365 commits this year
-- ⚡ Fun fact: I'm a football player, love to read Novels(Sci-fi), active social worker, and am a truth seeker ;)
+- ⚡ Fun fact 1: I'm a football player,
+- ❇️ I Love sci-fi
+- 🍀 I Listen to Carl Sagan Daily 
 - ⚡ Fact: I can speak 7 languages excluding programming languages 
 - 🥅 2023 Solve Hacker Rank Questions 
 - 🤔 Fyp: NLP, AI/ML, Improvements in current software
