@@ -45,6 +45,10 @@
 <br>
 
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
+
+
+
+
 <div align="center">
 
 ![Ctoic's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctoic&show_icons=true&theme=radical) 
@@ -71,6 +75,9 @@
 
   
   </div>
+
+
+  
   ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
   
   <div align="center">
@@ -100,6 +107,9 @@
 </div>
 
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
+
+
+
  <div align="center"> 
   <h2>Languages and Tools:</h2>
   </div>
@@ -124,6 +134,9 @@
 
 
  </div>
+
+
+ 
  ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
   
   
