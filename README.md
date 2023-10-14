@@ -121,53 +121,24 @@
 
  
  ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
-</div>
-
- 
-<div align="center">
-  
-![pixel-neon](https://github.com/Ctoic/Ctoic/assets/90936436/8f9b03ab-7642-48d9-a75e-f2f3778dd4da)
-
-</div>
-
-
-<
-
-
-![vaporwave-aesthetic (1)](https://github.com/Ctoic/Ctoic/assets/90936436/fae9d78f-69bc-4e46-a728-a8b4b9cb1ebf)
-
 
 
 
 
  
  ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
-## I'm a Student, Developer, and Teacher!!
-
-- 🔭 Diving deep into the programming world
-- 🌱 I’m currently learning everything 
-- 👯 I’m looking to collaborate with geeks 
-- 🥅 2022 Goals: Contribute more to open-source projects
-- 🥅 2022 Goals: Contribute Daily to open source which means 365 commits this year
-- ⚡ Fun fact 1: I'm a football player,
-- ❇️ I Love sci-fi
-- 🍀 I Listen to Carl Sagan Daily 
-- ⚡ Fact: I can speak 7 languages excluding programming languages 
-- 🥅 2023 Solve Hacker Rank Questions 
-- 🤔 Fyp: NLP, AI/ML, Improvements in current software
 
 
 <div align="center">
   <table>
     <tr>
+         <h2>I'm a Student, Developer, and Teacher!!</h2>
       <td align="center">
-        <h2>My Image</h2>
         <a href="https://github.com/Ctoic/Ctoic/assets/90936436/fae9d78f-69bc-4e46-a728-a8b4b9cb1ebf">
           <img src="https://github.com/Ctoic/Ctoic/assets/90936436/fae9d78f-69bc-4e46-a728-a8b4b9cb1ebf" alt="vaporwave-aesthetic (1)" />
         </a>
       </td>
       <td align="center">
-        <h2>I'm a Student, Developer, and Teacher!!</h2>
         <ul>
           <li>🔭 Diving deep into the programming world</li>
           <li>🌱 I’m currently learning everything</li>
@@ -175,7 +146,7 @@
           <li>🥅 2022 Goals:
             <ul>
               <li>Contribute more to open-source projects</li>
-              <li>Contribute Daily to open source which means 365 commits this year</li>
+              <li>Contribute Daily to open source/li>
             </ul>
           </li>
           <li>⚡ Fun facts:
@@ -183,11 +154,10 @@
               <li>I'm a football player</li>
               <li>I love sci-fi</li>
               <li>I listen to Carl Sagan Daily</li>
-              <li>I can speak 7 languages excluding programming languages</li>
+              <li>I can speak 7 languages</li>
             </ul>
           </li>
           <li>🥅 2023 Goal: Solve HackerRank Questions</li>
-          <li>🤔 FYP: NLP, AI/ML, Improvements in current software</li>
         </ul>
       </td>
     </tr>
