@@ -86,8 +86,7 @@
 
   
 
-[!(https://github-profile-trophy.vercel.app/?username=ctoic&margin-w=10)]
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ctoic&theme=onedark)](https://github.com/ctoic/github-profile-trophy)
 
 
 
