@@ -56,7 +56,7 @@
 
   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctoic&layout=pie&bg_color=ff0000)](https://github.com/ctoic/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctoic&layout=pie&bg_color=00000000)](https://github.com/ctoic/github-readme-stats)
 
 
 
