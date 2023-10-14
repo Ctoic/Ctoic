@@ -28,9 +28,8 @@
 <br>
 <div align="center">
   
-
-![Visitor Count](https://profile-counter.glitch.me/{Ctoic}/count.svg) | [![Github gists](https://gist-count.vercel.app/api?username=Ctoic)](https://gist.github.com/Ctoic) 
-
+<h2>Visitor's Count</h2>
+![Visitor Count](https://profile-counter.glitch.me/{Ctoic}/count.svg) 
 
 </div>
 <div id="header" align="center">
