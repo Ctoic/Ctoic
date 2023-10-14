@@ -70,6 +70,13 @@
   </div>
   </div>
 
+
+  
+
+  [![Ctoic's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ctoic)](https://github.com/ctoic/github-readme-stats)
+
+
+
   
   ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
 
