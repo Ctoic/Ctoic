@@ -1,10 +1,6 @@
 
 
 
-
-
-
-
 ![pixel-night-banner](https://github.com/Ctoic/Ctoic/assets/90936436/fab74104-e85f-44fe-aa92-9eb7aba51e30)
 
 
@@ -71,9 +67,17 @@
   </div>
 
 
+
+
+
+
   
 
   [![Ctoic's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ctoic)](https://github.com/ctoic/github-readme-stats)
+
+
+
+
 
 
 
