@@ -113,6 +113,25 @@
   </table>
 </div>
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <h2>My Image</h2>
+        <a href="https://github.com/Ctoic/Ctoic/assets/90936436/8f9b03ab-7642-48d9-a75e-f2f3778dd4da">
+          <img src="https://github.com/Ctoic/Ctoic/assets/90936436/8f9b03ab-7642-48d9-a75e-f2f3778dd4da" alt="pixel-neon" />
+        </a>
+      </td>
+      <td align="center">
+        <h2>Top Programming Languages</h2>
+        <a href="https://github.com/ctoic/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctoic&layout=compact&bg_color=00000000" alt="Top Langs" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 
 
