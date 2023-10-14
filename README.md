@@ -1,5 +1,5 @@
+![pixel-neon](https://github.com/Ctoic/Ctoic/assets/90936436/8f9b03ab-7642-48d9-a75e-f2f3778dd4da)
 
-![68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d343237626662266865696768743d3132302673656374696f6e3d686561646572](https://user-images.githubusercontent.com/90936436/226839506-4bae5412-ed2f-47fd-b19f-569d65644be4.svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=435&lines=Hello+Geeks+!;I'm+Najam+Ali+Abbas+;Let's+Follow+EachOther;Sophomore;ComputerSCience;Student;Happy+Coding;I'm+a+Pythonista+)](https://git.io/typing-svg)
   
