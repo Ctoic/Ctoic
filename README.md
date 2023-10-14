@@ -107,29 +107,11 @@
   
   ## Languages and Tools:
   
-<div>
-
-![py](https://user-images.githubusercontent.com/90936436/179396520-68dae8d3-985c-4089-b68b-775ab792af0a.png)
-![C++i](https://user-images.githubusercontent.com/90936436/179396581-6943e00e-9659-458b-9df3-0a11fae6fa87.png)
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  
-![wp](https://user-images.githubusercontent.com/90936436/179396710-7453d1a7-1791-4133-8dd8-f3b28db59496.png)
-![c![Matlab](https://user-images.githubusercontent.com/90936436/179396773-0aff67e8-9ebb-40e4-9359-302584f7b3ba.png)
-anva](https://user-images.githubusercontent.com/90936436/179396731-1c69b94b-8af9-4d36-913e-579fe80695ee.png)
-![Matlab](https://user-images.githubusercontent.com/90936436/179396828-be052a8d-0007-4943-811c-979389beeece.png)
-![Untitled design (4)](https://user-images.githubusercontent.com/90936436/179396850-48c434a0-5727-4509-86e7-add67072cad6.png)
-  ![photoshop](https://user-images.githubusercontent.com/90936436/179396969-af4843e5-17c9-4445-a93d-f9757d3063cc.png)
-  ![premier](https://user-images.githubusercontent.com/90936436/179396999-b6063dfe-1ee5-4929-bd6b-e8267f9ff5b4.png)
-  
-  
- </div>
 
 
 
  
- [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma,python,bash,c,cs,cpp,css,discord,django,docker,.net,eclipse,flask,git,github,idea,js,latex,linux,py,vim,vscodewordpress&theme=dark)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma,python,bash,c,cs,cpp,css,html,discord,django,docker,eclipse,flask,git,github,idea,js,latex,linux,py,vim,vscodewordpress&theme=dark&perline=8)](https://skillicons.dev)
 
 
 
