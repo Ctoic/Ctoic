@@ -1,6 +1,4 @@
 
-
-
 ![pixel-night-banner](https://github.com/Ctoic/Ctoic/assets/90936436/fab74104-e85f-44fe-aa92-9eb7aba51e30)
 
 
@@ -43,6 +41,11 @@
   </a>
 </div>
   </div>
+  <div align="center">
+    
+  [![My Skills](https://skillicons.dev/icons?i=instagram,linkedin,youtube,twitter&theme=dark)](https://skillicons.dev)
+
+  </div>
 
 <br>
 
@@ -59,29 +62,21 @@
 
   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctoic&layout=pie&bg_color=00000000)](https://github.com/ctoic/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctoic&layout=pie&bg_color=ff0000)](https://github.com/ctoic/github-readme-stats)
 
 
 
   </div>
   </div>  
+
+  
   ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
 
 
 
  <div align="center"> 
   <h2>Languages and Tools:</h2>
-  </div>
-  
 
-
-
- [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma,python,bash,c,cs,cpp,css,html,discord,django,docker,eclipse,flask,git,github,idea,js,latex,linux,py,vim,vscodewordpress&theme=dark&perline=14)](https://skillicons.dev)
-
-
-
-
- </div>
 
  </div>
 <div>
