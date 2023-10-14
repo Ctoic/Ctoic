@@ -12,7 +12,7 @@
 
 
 
-
+![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
 
 
 
@@ -20,6 +20,9 @@
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=435&lines=Hello+Geeks+!;I'm+Najam+Ali+Abbas+;Let's+Follow+EachOther;Sophomore;ComputerSCience;Student;Happy+Coding;I'm+a+Pythonista+)](https://git.io/typing-svg)
+
+![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
+
   
 
 <div id="header" align="center">
