@@ -64,24 +64,7 @@
 
 
   </div>
-  </div>
-
-
-
-
-
-
-  
-
-  [![Ctoic's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ctoic)](https://github.com/ctoic/github-readme-stats)
-
-
-
-
-
-
-
-  
+  </div>  
   ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
 
 
@@ -102,16 +85,10 @@
 
  </div>
 <div>
+<h2 alig="center"> Github States and Languages Used </h2>
 
-
-
-
-  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ctoic&theme=onedark)](https://github.com/ctoic/github-profile-trophy)
-
-
-
 
 
 
@@ -159,8 +136,7 @@
 
  
  ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
-  
-  
+</div>
 
  
 <div align="center">
