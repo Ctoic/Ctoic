@@ -3,6 +3,8 @@
 
 
 
+
+
 ![pixel-night-banner](https://github.com/Ctoic/Ctoic/assets/90936436/fab74104-e85f-44fe-aa92-9eb7aba51e30)
 
 
@@ -103,6 +105,17 @@
 
 
 </div>
+ <div align="center"> 
+  ## Languages and Tools:
+  </div>
+  
+
+
+
+ [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma,python,bash,c,cs,cpp,css,html,discord,django,docker,eclipse,flask,git,github,idea,js,latex,linux,py,vim,vscodewordpress&theme=dark&perline=14)](https://skillicons.dev)
+
+
+
 
   
  <div  align="center">
@@ -118,17 +131,6 @@
  </div>
   
   
-  ## Languages and Tools:
-  
-
-
-
- 
- [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma,python,bash,c,cs,cpp,css,html,discord,django,docker,eclipse,flask,git,github,idea,js,latex,linux,py,vim,vscodewordpress&theme=dark&perline=14)](https://skillicons.dev)
-
-
-
-
 
  
 <div align="center">
@@ -137,15 +139,20 @@
 
 </div>
 
+
 ## I'm a Student, Developer, and Teacher!!
 
 - 🔭 Diving deep into the programming world
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with geeks 
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to open-source projects
 - 🥅 2022 Goals: Contribute Daily to open source which means 365 commits this year
-- ⚡ Fun fact: I'm a football player, love to read Novels(Sci-fi), active social worker, and a truth seeker ;)
+- ⚡ Fun fact: I'm a football player, love to read Novels(Sci-fi), active social worker, and am a truth seeker ;)
 - ⚡ Fact: I can speak 7 languages excluding programming languages 
 - 🥅 2023 Solve Hacker Rank Questions 
-- 🤔 Fyp: NLP, AI/ML, Improvements in current software | 
+- 🤔 Fyp: NLP, AI/ML, Improvements in current software
+  
 
+  
+
+![animated-wave](https://github.com/Ctoic/Ctoic/assets/90936436/f12da875-8704-4e89-80f8-31c42713adec)
