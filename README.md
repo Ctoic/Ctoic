@@ -43,13 +43,6 @@
   </div>
 <br>
 
-<div>
-  <h2 align="center">👨‍💻 Technologies and Skills </h2>
-
-
-
-
-
   <div align="center">
 
 
@@ -78,11 +71,6 @@
 <div>
 <h2 alig="center"> Github States and Languages Used </h2>
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ctoic&theme=onedark)](https://github.com/ctoic/github-profile-trophy)
-
-
-
 </div>
 
 <table>
@@ -110,32 +98,13 @@
 
 
 </div>
-
-
-<div align="center">
-
-![Ctoic's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctoic&show_icons=true&theme=radical) 
-
-
-
+<div>
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=ctoic&theme=onedark)](https://github.com/ctoic/github-profile-trophy)
 </div>
 
-  
-  ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
-  
-  <div align="center">
 
   
-  
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ctoic&theme=radical)](https://git.io/streak-stats)
-
-  
-  
-  
-  
-  </div>
-
 
 
  
@@ -150,6 +119,8 @@
 </div>
 
 
+ 
+ ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
 ## I'm a Student, Developer, and Teacher!!
 
 - 🔭 Diving deep into the programming world
@@ -162,6 +133,8 @@
 - 🥅 2023 Solve Hacker Rank Questions 
 - 🤔 Fyp: NLP, AI/ML, Improvements in current software
   
+ 
+ ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
 
   
 
