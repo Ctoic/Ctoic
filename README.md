@@ -51,7 +51,7 @@
 <br>
 
 <div>
-  <h2>👨‍💻 Technologies and Skills </h2>
+  <h2 align="center">👨‍💻 Technologies and Skills </h2>
 
 
 
