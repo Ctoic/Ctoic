@@ -50,16 +50,11 @@
 
 <br>
 
+<div>
+  <h2>👨‍💻 Technologies and Skills </h2>
 
 
 
-<div align="center">
-
-![Ctoic's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctoic&show_icons=true&theme=radical) 
-
-
-
-</div>
 
 
   <div align="center">
@@ -76,9 +71,27 @@
 
 
 
-
   
   </div>
+  ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
+
+
+
+ <div align="center"> 
+  <h2>Languages and Tools:</h2>
+  </div>
+  
+
+
+
+ [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma,python,bash,c,cs,cpp,css,html,discord,django,docker,eclipse,flask,git,github,idea,js,latex,linux,py,vim,vscodewordpress&theme=dark&perline=14)](https://skillicons.dev)
+
+
+
+
+ </div>
+
+ </div>
 <div>
 
 
@@ -90,6 +103,14 @@
 
 
 
+
+
+
+</div>
+
+<div align="center">
+
+![Ctoic's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctoic&show_icons=true&theme=radical) 
 
 
 
@@ -124,23 +145,7 @@
 
 </div>
 
-![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
 
-
-
- <div align="center"> 
-  <h2>Languages and Tools:</h2>
-  </div>
-  
-
-
-
- [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma,python,bash,c,cs,cpp,css,html,discord,django,docker,eclipse,flask,git,github,idea,js,latex,linux,py,vim,vscodewordpress&theme=dark&perline=14)](https://skillicons.dev)
-
-
-
-
- </div>
 
 
  
