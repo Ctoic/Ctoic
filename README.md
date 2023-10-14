@@ -85,6 +85,20 @@
 
 </div>
 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ctoic/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=ctoic&theme=onedark" alt="GitHub Profile Trophies" />
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=ctoic&show_icons=true&theme=radical" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
+
+
 <div align="center">
 
 ![Ctoic's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctoic&show_icons=true&theme=radical) 
