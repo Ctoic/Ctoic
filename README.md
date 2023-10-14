@@ -77,15 +77,8 @@
 </div>
 <div>
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=ctoic&theme=onedark)](https://github.com/ctoic/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ctoic&theme=radical)](https://github.com/ctoic/github-profile-trophy)
 </div>
-
-
-
-
-  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctoic&layout=pie&bg_color=00000000)](https://github.com/ctoic/github-readme-stats)
 
 
 
