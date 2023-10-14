@@ -106,7 +106,7 @@
 
 </div>
  <div align="center"> 
-  ## Languages and Tools:
+  <h2>Languages and Tools:</h2>
   </div>
   
 
