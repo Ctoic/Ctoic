@@ -80,8 +80,14 @@
   
   </div>
 <div align="center">
+
+
   
+
 https://github-profile-trophy.vercel.app/?username=ctoic&margin-w=15
+
+
+
 
 </div>
 
