@@ -25,17 +25,9 @@
 
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
 
-  
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2NkMjBkYTVkZTZjMzZkOWRmNGQ4NmE5ZGExMDNhZjVmZjJiNDk1MSZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
- 
-</div>
-<div>
-
-</div>
 <br>
 
+![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
 
 <div id="header" align="center">
 <div id="badges">
@@ -53,6 +45,7 @@
 
 <br>
 
+![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
 <div align="center">
 
 ![Ctoic's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctoic&show_icons=true&theme=radical) 
