@@ -129,7 +129,7 @@ anva](https://user-images.githubusercontent.com/90936436/179396731-1c69b94b-8af9
 
 
  
- [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=dark)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma,python,bash,c,cs,cpp,css,discord,django,docker,.net,eclipse,flask,git,github,idea,js,latex,linux,py,vim,vscodewordpress&theme=dark)](https://skillicons.dev)
 
 
 
