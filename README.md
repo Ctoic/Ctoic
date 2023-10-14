@@ -26,8 +26,9 @@
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
 
 <br>
-
-
+<div align="center">
+| ![Visitor Count](https://profile-counter.glitch.me/{Ctoic}/count.svg) | [![Github gists](https://gist-count.vercel.app/api?username=Ctoic)](https://gist.github.com/Ctoic) 
+</div>
 <div id="header" align="center">
 <div id="badges">
   <a href="https://www.linkedin.com/in/najam-ali-abbas-614211216/">
@@ -43,8 +44,6 @@
   </div>
 
 <br>
-
-![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
 
 
 
@@ -119,17 +118,6 @@
 
  [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma,python,bash,c,cs,cpp,css,html,discord,django,docker,eclipse,flask,git,github,idea,js,latex,linux,py,vim,vscodewordpress&theme=dark&perline=14)](https://skillicons.dev)
 
-
-
-
-  
- <div  align="center">
- 
-
-
-| Visitors | Gists Count | Youtube |
-| -------- | -----------| --------|
-| ![Visitor Count](https://profile-counter.glitch.me/{Ctoic}/count.svg) | [![Github gists](https://gist-count.vercel.app/api?username=Ctoic)](https://gist.github.com/Ctoic) | [![Youtube Badge](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC4ZY1JKm3nuqX3XcCf9l0xQ/featured) 
 
 
 
