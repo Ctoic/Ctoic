@@ -45,6 +45,42 @@
 
   <div align="center">
 
+  <div>
+<h2 alig="center"> Github States and Languages Used </h2>
+
+</div>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=ctoic&show_icons=true&theme=radical" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com/?user=ctoic&theme=radical" alt="GitHub Streak" />
+      </a>
+    </td>
+  </tr>
+</table>
+ <div align="center">
+
+
+
+
+    
+  [![Ctoic's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ctoic&theme=rogue)](https://github.com/ctoic/github-readme-activity-graph)
+
+
+
+
+
+</div>
+<div>
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=ctoic&theme=onedark)](https://github.com/ctoic/github-profile-trophy)
+</div>
+
+
 
 
   
@@ -86,43 +122,7 @@
 
 
 
-<div>
-<h2 alig="center"> Github States and Languages Used </h2>
 
-</div>
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=ctoic&show_icons=true&theme=radical" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=ctoic&theme=radical" alt="GitHub Streak" />
-      </a>
-    </td>
-  </tr>
-</table>
- <div align="center">
-
-
-
-
-    
-  [![Ctoic's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ctoic&theme=rogue)](https://github.com/ctoic/github-readme-activity-graph)
-
-
-
-
-
-</div>
-<div>
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=ctoic&theme=onedark)](https://github.com/ctoic/github-profile-trophy)
-</div>
-
-
-  
 
 
  
