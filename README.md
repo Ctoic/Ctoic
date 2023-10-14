@@ -136,7 +136,7 @@ anva](https://user-images.githubusercontent.com/90936436/179396731-1c69b94b-8af9
 
 
  
-<div allign="center">
+<div align="center">
   
 ![pixel-neon](https://github.com/Ctoic/Ctoic/assets/90936436/8f9b03ab-7642-48d9-a75e-f2f3778dd4da)
 
