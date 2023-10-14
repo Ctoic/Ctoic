@@ -97,7 +97,19 @@
     </td>
   </tr>
 </table>
+ <div align="center">
 
+
+
+
+    
+  [![Ctoic's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ctoic&theme=rogue)](https://github.com/ctoic/github-readme-activity-graph)
+
+
+
+
+
+</div>
 
 
 <div align="center">
@@ -123,20 +135,6 @@
   
   
   </div>
-  <div align="center">
-
-
-
-
-    
-  [![Ctoic's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ctoic&theme=rogue)](https://github.com/ctoic/github-readme-activity-graph)
-
-
-
-
-
-</div>
-
 
 
 
