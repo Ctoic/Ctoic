@@ -139,7 +139,7 @@
 
 ## I'm a Student, Developer, and Teacher!!
 
-- 🔭 Diving deep in the programming world
+- 🔭 Diving deep into the programming world
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with geeks 
 - 🥅 2022 Goals: Contribute more to Open Source projects
@@ -147,5 +147,5 @@
 - ⚡ Fun fact: I'm a football player, love to read Novels(Sci-fi), active social worker, and a truth seeker ;)
 - ⚡ Fact: I can speak 7 languages excluding programming languages 
 - 🥅 2023 Solve Hacker Rank Questions 
-- 🤔 Fyp: NLP, AI/ML, Improvements in current software
+- 🤔 Fyp: NLP, AI/ML, Improvements in current software | 
 
