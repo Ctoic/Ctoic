@@ -159,6 +159,7 @@
 <div>
   
   [![An image of @ctoic's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ctoic)](https://holopin.io/@ctoic)
+  
 </div>
 
   
