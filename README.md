@@ -131,13 +131,6 @@
 
 <div align="center">
   <table>
-    <tr>
-         <h2>I'm a Student, Developer, and Teacher!!</h2>
-      <td align="center">
-        <a href="https://github.com/Ctoic/Ctoic/assets/90936436/fae9d78f-69bc-4e46-a728-a8b4b9cb1ebf">
-          <img src="https://github.com/Ctoic/Ctoic/assets/90936436/fae9d78f-69bc-4e46-a728-a8b4b9cb1ebf" alt="vaporwave-aesthetic (1)" />
-        </a>
-      </td>
       <td align="center">
         <ul>
           <li>🔭 Diving deep into the programming world</li>
@@ -162,6 +155,9 @@
       </td>
     </tr>
   </table>
+</div>
+<div>
+  [![An image of @ctoic's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ctoic)](https://holopin.io/@ctoic)
 </div>
 
   
