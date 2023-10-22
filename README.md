@@ -24,6 +24,8 @@
   
 <h2>Visitor's Count</h2>
 
+![](https://komarev.com/ghpvc/?username=ctoic&color=ff69b4)
+
 
 ![Visitor Count](https://profile-counter.glitch.me/{Ctoic}/count.svg) 
 
