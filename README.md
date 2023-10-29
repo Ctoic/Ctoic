@@ -21,7 +21,7 @@
 
 <br>
 
-![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
+
 
 <div align="center">
   
@@ -47,11 +47,12 @@
 </div>
   </div>
 <br>
+![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
 
   <div align="center">
 
   <div>
-<h2 alig="center"> Github States and Languages Used </h2>
+<h2 alig="center"> Github States and Languages Used  </h2>
 
 </div>
 
