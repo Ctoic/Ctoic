@@ -20,6 +20,9 @@
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
 
 <br>
+
+![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
+
 <div align="center">
   
 <h2>Visitor's Count</h2>
@@ -82,9 +85,11 @@
 
 
   </div>
-  </div>  
+  </div>
+  
+![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
   <div>
-<h2 align="center"> Badges</h2>
+<h2 align="center"> Badges 🏆</h2>
   
   [![An image of @ctoic's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ctoic)](https://holopin.io/@ctoic)
   
@@ -100,7 +105,7 @@
 
 
  <div align="center"> 
-  <h2>Languages and Tools:</h2>
+  <h2>Languages and Tools 🧰</h2>
    
    [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,cs,html,css,javascript,bash,bootstrap,django,flask,docker,eclipse,figma,github,ai,linux,md,netlify,vim,visualstudio,&theme=dark&perline=12)](https://skillicons.dev)
 
