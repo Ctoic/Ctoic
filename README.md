@@ -145,9 +145,7 @@
  ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
 
 
-<div align="center">
-  <table>
-      <td align="center">
+
         <ul>
           <li>🔭 Diving deep into the programming world</li>
           <li>🌱 I’m currently learning everything</li>
@@ -168,10 +166,6 @@
           </li>
           <li>🥅 2023 Goal: Solve HackerRank Questions</li>
         </ul>
-      </td>
-    </tr>
-  </table>
-</div>
   
  
  ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
