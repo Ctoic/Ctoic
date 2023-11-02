@@ -141,28 +141,21 @@
 
 
 
- 
- ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
 
 
 
-        <ul>
-          <li>🔭 Diving deep into the programming world</li>
-          <li>🌱 I’m currently learning everything</li>
-          <li>👯 I’m looking to collaborate with geeks</li>
-          <li>🥅 2022 Goals:
-            <ul>
+        
+          <🔭 Diving deep into the programming world</li>
+          <🌱 I’m currently learning everything</li>
+          <👯 I’m looking to collaborate with geeks</li>
+          <l🥅 2022 Goals:
               <li>Contribute more to open-source projects</li>
               <li>Contribute Daily to open source/li>
-            </ul>
-          </li>
-          <li>⚡ Fun facts:
-            <ul>
+           Fun facts:
               <li>I'm a football player</li>
               <li>I love sci-fi</li>
               <li>I listen to Carl Sagan Daily</li>
               <li>I can speak 7 languages</li>
-            </ul>
           </li>
           <li>🥅 2023 Goal: Solve HackerRank Questions</li>
         </ul>
