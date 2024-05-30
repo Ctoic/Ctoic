@@ -10,7 +10,6 @@
 
 
 
-![Anime](Github.gif)
 
 
 
@@ -171,6 +170,9 @@
           </li>
           <li>🥅 2023 Goal: Solve HackerRank Questions</li>
         </ul>
+
+![Anime](Github.gif)
+
   
  
  ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
