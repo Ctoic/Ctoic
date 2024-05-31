@@ -43,9 +43,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{Ctoic}/count.svg) 
 
-   [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,cs,html,css,javascript,bash,bootstrap,django,flask,docker,eclipse,figma,github,ai,linux,md,netlify,vim,visualstudio,&theme=dark&perline=12)](https://skillicons.dev)
-
-
+  
 </div>
 <div id="header" align="center">
 <div id="badges">
@@ -61,6 +59,10 @@
 </div>
   </div>
 <br>
+
+ [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,cs,html,css,javascript,bash,bootstrap,django,flask,docker,eclipse,figma,github,ai,linux,md,netlify,vim,visualstudio,&theme=dark&perline=12)](https://skillicons.dev)
+
+
 
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
 
