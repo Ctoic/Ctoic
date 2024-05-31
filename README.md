@@ -60,8 +60,12 @@
   </div>
 <br>
 
+ <div align="center"> 
+  <h2>Languages and Tools 🧰</h2>
+   
  [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,cs,html,css,javascript,bash,bootstrap,django,flask,docker,eclipse,figma,github,ai,linux,md,netlify,vim,visualstudio,&theme=dark&perline=12)](https://skillicons.dev)
 
+</div>
 
 
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
@@ -122,9 +126,7 @@
 
 
 
- <div align="center"> 
-  <h2>Languages and Tools 🧰</h2>
-   
+
 
 
 <div align="center">
