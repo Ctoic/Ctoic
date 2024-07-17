@@ -78,8 +78,6 @@
 </div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctoic&layout=donut-vertical)](https://github.com/ctoic/github-readme-stats)
-
 
 <table>
   <tr>
@@ -143,9 +141,9 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/ctoic/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctoic&layout=compact&bg_color=00000000" alt="Top Langs" />
-        </a>
+        
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctoic&layout=donut-vertical)](https://github.com/ctoic/github-readme-stats)
+
       </td>
     </tr>
   </table>
