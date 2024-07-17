@@ -76,7 +76,13 @@
 <h2 alig="center"> Github States and Languages Used  </h2>
 
 </div>
+
+
+
 [![ Ctoic's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ctoic&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/ctoic)
+
+
+
 <table>
   <tr>
     <td align="center">
