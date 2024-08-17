@@ -147,9 +147,12 @@
 </div>
 
 
+ ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
+
+<div align="center">
+
 <a href="https://app.daily.dev/ctoic"><img src="https://api.daily.dev/devcards/v2/IksW1Yr2Dr3Z9v7uInnka.png?r=wdk&type=wide" width="652" alt="Najam Ali Abbas's Dev Card"/></a>
-
-
+</div>
 
 
 
