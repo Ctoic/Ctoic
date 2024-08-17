@@ -147,6 +147,9 @@
 </div>
 
 
+<a href="https://app.daily.dev/ctoic"><img src="https://api.daily.dev/devcards/v2/IksW1Yr2Dr3Z9v7uInnka.png?r=wdk&type=wide" width="652" alt="Najam Ali Abbas's Dev Card"/></a>
+
+
 
 
 
