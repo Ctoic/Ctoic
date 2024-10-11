@@ -30,6 +30,9 @@
 
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
 
+  [![An image of @ctoic's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ctoic)](https://holopin.io/@ctoic)
+
+
 <br>
 
 
