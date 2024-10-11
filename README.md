@@ -48,6 +48,8 @@
 
 <br>
 
+![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
+
 
 
 <div align="center">
@@ -61,6 +63,9 @@
 
   
 </div>
+
+![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
+
 <div id="header" align="center">
 <div id="badges">
   <a href="https://www.linkedin.com/in/najam-ali-abbas-614211216/">
