@@ -30,8 +30,11 @@
 
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
 
+<h2 align="center"> Hacktoberfest Badges 🏆</h2>
+  
   [![An image of @ctoic's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ctoic)](https://holopin.io/@ctoic)
-
+  
+</div>
 
 <br>
 
@@ -116,11 +119,7 @@
   
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
   <div>
-<h2 align="center"> Badges 🏆</h2>
-  
-  [![An image of @ctoic's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ctoic)](https://holopin.io/@ctoic)
-  
-</div>
+
 <div>
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=ctoic&theme=radical)](https://github.com/ctoic/github-profile-trophy)
