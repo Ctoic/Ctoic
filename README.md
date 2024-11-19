@@ -78,7 +78,7 @@
  <div align="center"> 
   <h2>Languages and Tools 🧰</h2>
    
- [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,cs,html,css,javascript,bash,bootstrap,django,flask,docker,eclipse,figma,github,ai,linux,md,netlify,vim,visualstudio,&theme=dark&perline=12)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,cs,html,css,javascript,php,magento,bash,bootstrap,django,flask,docker,eclipse,figma,github,ai,linux,md,netlify,vim,visualstudio,&theme=dark&perline=12)](https://skillicons.dev)
 
 </div>
 
