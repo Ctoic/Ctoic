@@ -75,8 +75,6 @@
   </div>
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ctoic&theme=dark)](https://git.io/streak-stats)
-
  <div align="center"> 
   <h2>Languages and Tools 🧰</h2>
    
