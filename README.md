@@ -24,17 +24,14 @@
 
 
 
-
-
-
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
-
-- Goal For 2024 : Want to be among the top contributors of Pakistan and want to fill everysquare 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=435&lines=Hello+Geeks!;I'm+Najam+Ali+Abbas;Let's+Grow+Together;Sophomore;Computer+Science+Student;Python+Enthusiast;Happy+Coding!;I+Know+Nothing;Learning+Never+Stops)](https://git.io/typing-svg)
 
 
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
+
+
 
 <h2 align="center"> Hacktoberfest Badges 🏆</h2>
   
@@ -76,6 +73,22 @@
 </div>
   </div>
 <br>
+
+### Goals For 2024 🥅
+- Goal For 2024 : Want to be among the top contributors of Pakistan and want to fill everysquare
+- Contribute or Start a Project to help mitigate Climate change
+- Earn 💵🤑
+- Built Open Source Community For Pakistan
+- Contribute so Pakistan Developer community on GitHub Grow
+- atleast 10 Seminors and Workshops for students
+- Go to Gym Daily 🏋️
+- Built a product
+- Start a Buisness
+- Spend Quality time with family
+
+
+![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
+
 
  <div align="center"> 
   <h2>Languages and Tools 🧰</h2>
