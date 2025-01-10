@@ -98,7 +98,7 @@
     </td>
     <td align="center">
       <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=ctoic&theme=codestackr" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=ctoic&theme=gotham" alt="GitHub Streak" />
       </a>
     </td>
   </tr>
@@ -170,7 +170,9 @@
 
 
 
-
+  <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com/?user=ctoic&theme=gotham" alt="GitHub Streak" />
+      </a>
 
   
 
