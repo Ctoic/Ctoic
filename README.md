@@ -109,7 +109,7 @@
 
 
     
-  [![Ctoic's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ctoic&theme=rogue)](https://github.com/ctoic/github-readme-activity-graph)
+  [![Ctoic's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ctoic&theme=gotham)](https://github.com/ctoic/github-readme-activity-graph)
 
 
 
