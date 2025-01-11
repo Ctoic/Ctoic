@@ -37,22 +37,52 @@
 </div>
 
 <br>
-
-![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
-
-
-
 <div align="center">
-  
 <h2>Visitor's Count</h2>
-
-![](https://komarev.com/ghpvc/?username=ctoic&color=ff69b4)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/{Ctoic}/count.svg) 
 
-  
 </div>
+
+ <div>
+<h2 alig="center"> Github States and Languages Used  </h2>
+
+</div>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=ctoic&show_icons=true&theme=gotham" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com/?user=ctoic&theme=gotham" alt="GitHub Streak" />
+      </a>
+    </td>
+  </tr>
+</table>
+ <div align="center">
+
+
+
+
+    
+  [![Ctoic's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ctoic&theme=gotham)](https://github.com/ctoic/github-readme-activity-graph)
+
+
+
+
+
+</div>
+
+
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=ctoic&theme=algolia)](https://github.com/ctoic/github-profile-trophy)
+</div>
+
+  
+
 
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
 
@@ -84,63 +114,6 @@
 
 
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
-
-  <div align="center">
-
-  <div>
-<h2 alig="center"> Github States and Languages Used  </h2>
-
-</div>
-
-
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=ctoic&show_icons=true&theme=gotham" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=ctoic&theme=gotham" alt="GitHub Streak" />
-      </a>
-    </td>
-  </tr>
-</table>
- <div align="center">
-
-
-
-
-    
-  [![Ctoic's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ctoic&theme=gotham)](https://github.com/ctoic/github-readme-activity-graph)
-
-
-
-
-
-</div>
-
-
-
-
-  </div>
-  </div>
-  
-![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
-  <div>
-
-<div>
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=ctoic&theme=algolia)](https://github.com/ctoic/github-profile-trophy)
-</div>
-
-  
-  ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
-
-
-
-
-
 
 <div align="center">
   <h2>Top Programming Languages</h2>
