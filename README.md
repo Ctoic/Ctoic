@@ -154,7 +154,7 @@
       </td>
       <td align="center">
         <a href="https://github.com/ctoic/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctoic" 
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctoic&theme=gotham&langs_count=11" 
                alt="Top Languages" />
         </a>
       </td>
