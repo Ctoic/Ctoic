@@ -128,7 +128,7 @@
 
 <div>
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=ctoic&theme=radical)](https://github.com/ctoic/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ctoic&theme=gotham)](https://github.com/ctoic/github-profile-trophy)
 </div>
 
   
