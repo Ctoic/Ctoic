@@ -81,12 +81,15 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ctoic&theme=algolia)](https://github.com/ctoic/github-profile-trophy)
 </div>
 
-  
+ <div align="center"> 
+  <h2>Languages and Tools 🧰</h2>
+   
+ [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,cs,html,css,javascript,php,magento,bash,bootstrap,django,flask,docker,eclipse,figma,github,ai,linux,md,netlify,vim,visualstudio,&theme=dark&perline=12)](https://skillicons.dev)
+
+</div>
 
 
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
-
-
 
 ### Goals For 2024 🥅
 - Goal For 2024 : Want to be among the top contributors of Pakistan and want to fill everysquare
@@ -105,15 +108,6 @@
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
 
 
- <div align="center"> 
-  <h2>Languages and Tools 🧰</h2>
-   
- [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,cs,html,css,javascript,php,magento,bash,bootstrap,django,flask,docker,eclipse,figma,github,ai,linux,md,netlify,vim,visualstudio,&theme=dark&perline=12)](https://skillicons.dev)
-
-</div>
-
-
-![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
 
 <div align="center">
   <h2>Top Programming Languages</h2>
