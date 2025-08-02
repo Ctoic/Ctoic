@@ -78,7 +78,7 @@
   <p>Thanks to all the amazing contributors who have helped make this project better!</p>
   
   <p align="center">
-    <strong>Total Contributors: 1</strong>
+    <strong>Total Contributors: 2</strong>
   </p>
   
   <p align="center">
@@ -88,13 +88,22 @@
   <br />
   
   <p align="center">
+
     <a href="https://github.com/Ctoic">
       <img src="https://avatars.githubusercontent.com/u/90936436?v=4" width="50px;" alt="Ctoic"/>
       <br />
       <sub><b>Ctoic</b></sub>
     </a>
     <a href="https://github.com/Ctoic" title="Contributions">
-      <img src="https://img.shields.io/badge/Contributions-405-blue?style=flat-square" alt="Contributions"/>
+      <img src="https://img.shields.io/badge/Contributions-408-blue?style=flat-square" alt="Contributions"/>
+    </a>
+    <a href="https://github.com/actions-user">
+      <img src="https://avatars.githubusercontent.com/u/65916846?v=4" width="50px;" alt="actions-user"/>
+      <br />
+      <sub><b>actions-user</b></sub>
+    </a>
+    <a href="https://github.com/actions-user" title="Contributions">
+      <img src="https://img.shields.io/badge/Contributions-1-blue?style=flat-square" alt="Contributions"/>
     </a>
   </p>
   
