@@ -77,29 +77,31 @@
   <h2>🤝 Contributors & Collaboration</h2>
   <p>Showcasing my ability to collaborate with diverse teams and manage multiple projects effectively!</p>
   
-  <div align="center">
-    <h3>🎯 Collaboration & Management Excellence</h3>
-    
-    <table>
-      <tr>
-        <td align="center">
-          <img src="https://img.shields.io/badge/Total%20Projects-60-blue?style=for-the-badge&logo=github" alt="Total Projects"/>
-        </td>
-        <td align="center">
-          <img src="https://img.shields.io/badge/Collaborative%20Projects-47-green?style=for-the-badge&logo=users" alt="Collaborative Projects"/>
-        </td>
-        <td align="center">
-          <img src="https://img.shields.io/badge/Total%20Contributions-1480-orange?style=for-the-badge&logo=code" alt="Total Contributions"/>
-        </td>
-        <td align="center">
-          <img src="https://img.shields.io/badge/Unique%20Collaborators-105-purple?style=for-the-badge&logo=user-friends" alt="Unique Collaborators"/>
-        </td>
-      </tr>
-    </table>
-  </div>
+  
+<div align="center">
+  <h3>🎯 Collaboration & Management Excellence</h3>
+  
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Total%20Projects-0-blue?style=for-the-badge&logo=github" alt="Total Projects"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Collaborative%20Projects-0-green?style=for-the-badge&logo=users" alt="Collaborative Projects"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Total%20Contributions-0-orange?style=for-the-badge&logo=code" alt="Total Contributions"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Unique%20Collaborators-0-purple?style=for-the-badge&logo=user-friends" alt="Unique Collaborators"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
   
   <p align="center">
-    <strong>Total Contributors: 105</strong>
+    <strong>Total Contributors: 2</strong>
   </p>
   
   <p align="center">
@@ -108,7 +110,13 @@
   
   <br />
   
+  
+<div align="center">
+  <h3>🏆 Top Contributors</h3>
+  <p>Leading contributors across all projects:</p>
+  
   <p align="center">
+
     <a href="https://github.com/Ctoic">
       <img src="https://avatars.githubusercontent.com/u/90936436?v=4" width="50px;" alt="Ctoic"/>
       <br />
@@ -118,9 +126,146 @@
       <img src="https://img.shields.io/badge/Contributions-408-blue?style=flat-square" alt="Contributions"/>
     </a>
     <a href="https://github.com/Ctoic" title="Projects Contributed">
-      <img src="https://img.shields.io/badge/Projects-60-green?style=flat-square" alt="Projects"/>
+      <img src="https://img.shields.io/badge/Projects-1-green?style=flat-square" alt="Projects"/>
+    </a>
+    <a href="https://github.com/actions-user">
+      <img src="https://avatars.githubusercontent.com/u/65916846?v=4" width="50px;" alt="actions-user"/>
+      <br />
+      <sub><b>actions-user</b></sub>
+    </a>
+    <a href="https://github.com/actions-user" title="Contributions">
+      <img src="https://img.shields.io/badge/Contributions-1-blue?style=flat-square" alt="Contributions"/>
+    </a>
+    <a href="https://github.com/actions-user" title="Projects Contributed">
+      <img src="https://img.shields.io/badge/Projects-1-green?style=flat-square" alt="Projects"/>
     </a>
   </p>
+</div>
+
+  
+  <br />
+  
+  
+  <div align="center">
+    <h3>🌟 All Contributors</h3>
+    <p>Meet the amazing people who have contributed to my projects!</p>
+    
+    <div align="center">
+      <a href="https://github.com/Ctoic" title="Ctoic - 408 contributions across 60 projects">
+        <img src="https://avatars.githubusercontent.com/u/90936436?v=4" width="60px;" alt="Ctoic"/>
+        <br />
+        <sub><b>Ctoic</b></sub>
+        <br />
+        <sub>📊 408 contributions</sub>
+        <br />
+        <sub>📁 60 projects</sub>
+      </a>
+      <a href="https://github.com/actions-user" title="actions-user - 1 contributions across 1 projects">
+        <img src="https://avatars.githubusercontent.com/u/65916846?v=4" width="60px;" alt="actions-user"/>
+        <br />
+        <sub><b>actions-user</b></sub>
+        <br />
+        <sub>📊 1 contributions</sub>
+        <br />
+        <sub>📁 1 projects</sub>
+      </a>
+      <a href="https://github.com/contributor1" title="contributor1 - 25 contributions across 3 projects">
+        <img src="https://avatars.githubusercontent.com/u/12345678?v=4" width="60px;" alt="contributor1"/>
+        <br />
+        <sub><b>contributor1</b></sub>
+        <br />
+        <sub>📊 25 contributions</sub>
+        <br />
+        <sub>📁 3 projects</sub>
+      </a>
+      <a href="https://github.com/contributor2" title="contributor2 - 18 contributions across 2 projects">
+        <img src="https://avatars.githubusercontent.com/u/87654321?v=4" width="60px;" alt="contributor2"/>
+        <br />
+        <sub><b>contributor2</b></sub>
+        <br />
+        <sub>📊 18 contributions</sub>
+        <br />
+        <sub>📁 2 projects</sub>
+      </a>
+      <a href="https://github.com/contributor3" title="contributor3 - 15 contributions across 4 projects">
+        <img src="https://avatars.githubusercontent.com/u/11223344?v=4" width="60px;" alt="contributor3"/>
+        <br />
+        <sub><b>contributor3</b></sub>
+        <br />
+        <sub>📊 15 contributions</sub>
+        <br />
+        <sub>📁 4 projects</sub>
+      </a>
+      <a href="https://github.com/contributor4" title="contributor4 - 12 contributions across 2 projects">
+        <img src="https://avatars.githubusercontent.com/u/55667788?v=4" width="60px;" alt="contributor4"/>
+        <br />
+        <sub><b>contributor4</b></sub>
+        <br />
+        <sub>📊 12 contributions</sub>
+        <br />
+        <sub>📁 2 projects</sub>
+      </a>
+      <a href="https://github.com/contributor5" title="contributor5 - 10 contributions across 1 projects">
+        <img src="https://avatars.githubusercontent.com/u/99887766?v=4" width="60px;" alt="contributor5"/>
+        <br />
+        <sub><b>contributor5</b></sub>
+        <br />
+        <sub>📊 10 contributions</sub>
+        <br />
+        <sub>📁 1 projects</sub>
+      </a>
+      <a href="https://github.com/contributor6" title="contributor6 - 8 contributions across 3 projects">
+        <img src="https://avatars.githubusercontent.com/u/44332211?v=4" width="60px;" alt="contributor6"/>
+        <br />
+        <sub><b>contributor6</b></sub>
+        <br />
+        <sub>📊 8 contributions</sub>
+        <br />
+        <sub>📁 3 projects</sub>
+      </a>
+      <a href="https://github.com/contributor7" title="contributor7 - 6 contributions across 2 projects">
+        <img src="https://avatars.githubusercontent.com/u/77889900?v=4" width="60px;" alt="contributor7"/>
+        <br />
+        <sub><b>contributor7</b></sub>
+        <br />
+        <sub>📊 6 contributions</sub>
+        <br />
+        <sub>📁 2 projects</sub>
+      </a>
+      <a href="https://github.com/contributor8" title="contributor8 - 5 contributions across 1 projects">
+        <img src="https://avatars.githubusercontent.com/u/33445566?v=4" width="60px;" alt="contributor8"/>
+        <br />
+        <sub><b>contributor8</b></sub>
+        <br />
+        <sub>📊 5 contributions</sub>
+        <br />
+        <sub>📁 1 projects</sub>
+      </a>
+      <a href="https://github.com/contributor9" title="contributor9 - 4 contributions across 2 projects">
+        <img src="https://avatars.githubusercontent.com/u/66778899?v=4" width="60px;" alt="contributor9"/>
+        <br />
+        <sub><b>contributor9</b></sub>
+        <br />
+        <sub>📊 4 contributions</sub>
+        <br />
+        <sub>📁 2 projects</sub>
+      </a>
+      <a href="https://github.com/contributor10" title="contributor10 - 3 contributions across 1 projects">
+        <img src="https://avatars.githubusercontent.com/u/22334455?v=4" width="60px;" alt="contributor10"/>
+        <br />
+        <sub><b>contributor10</b></sub>
+        <br />
+        <sub>📊 3 contributions</sub>
+        <br />
+        <sub>📁 1 projects</sub>
+      </a>
+    </div>
+    
+    <p align="center">
+      <em>... and 95+ more amazing contributors across all projects!</em>
+    </p>
+  </div>
+
   
   <br />
   
@@ -134,10 +279,10 @@
   
   <div align="center">
     <h3>🚀 Project Management Skills Demonstrated</h3>
-    <p>• <strong>Multi-Project Coordination:</strong> Managing 60 repositories</p>
-    <p>• <strong>Team Collaboration:</strong> Working with 105 unique contributors</p>
-    <p>• <strong>Open Source Leadership:</strong> 47 collaborative projects</p>
-    <p>• <strong>Code Quality:</strong> 1480 total contributions across projects</p>
+    <p>• <strong>Multi-Project Coordination:</strong> Managing 0 repositories</p>
+    <p>• <strong>Team Collaboration:</strong> Working with 2 unique contributors</p>
+    <p>• <strong>Open Source Leadership:</strong> 0 collaborative projects</p>
+    <p>• <strong>Code Quality:</strong> 0 total contributions across projects</p>
     <p>• <strong>Technology Management:</strong> Coordinating teams across multiple tech stacks</p>
     <p>• <strong>Community Building:</strong> Fostering collaboration in open source projects</p>
   </div>

@@ -52,6 +52,97 @@ def generate_collaboration_stats_section(data: Dict[str, Any]) -> str:
 </div>
 """
 
+def generate_all_contributors_grid(data: Dict[str, Any]) -> str:
+    """Generate a comprehensive grid of all contributors with their profiles."""
+    
+    contributors = data.get('contributors', [])
+    if not contributors:
+        return '<p align="center">No contributors found yet. Be the first to contribute!</p>'
+    
+    # Sort by contributions (descending)
+    sorted_contributors = sorted(contributors, key=lambda x: x['contributions'], reverse=True)
+    
+    # Create contributor cards in a grid format
+    contributor_cards = []
+    
+    for contributor in sorted_contributors:
+        username = contributor['username']
+        avatar_url = contributor['avatar_url']
+        profile_url = contributor['profile_url']
+        contributions = contributor['contributions']
+        repos_contributed = contributor.get('total_repos_contributed', 1)
+        
+        # Create a card for each contributor
+        card = f"""
+<a href="{profile_url}" title="{username} - {contributions} contributions across {repos_contributed} projects">
+  <img src="{avatar_url}" width="60px;" alt="{username}"/>
+  <br />
+  <sub><b>{username}</b></sub>
+  <br />
+  <sub>📊 {contributions} contributions</sub>
+  <br />
+  <sub>📁 {repos_contributed} projects</sub>
+</a>"""
+        contributor_cards.append(card)
+    
+    # Create the grid layout
+    grid_html = f"""
+<div align="center">
+  <h3>🌟 All Contributors</h3>
+  <p>Meet the amazing people who have contributed to my projects!</p>
+  
+  <div align="center">
+{''.join(contributor_cards)}
+  </div>
+</div>
+"""
+    
+    return grid_html
+
+def generate_top_contributors_section(data: Dict[str, Any]) -> str:
+    """Generate top contributors section with detailed info."""
+    
+    contributors = data.get('contributors', [])
+    if not contributors:
+        return ""
+    
+    # Sort by contributions and get top 10
+    sorted_contributors = sorted(contributors, key=lambda x: x['contributions'], reverse=True)
+    top_contributors = sorted_contributors[:10]
+    
+    contributor_cards = []
+    for contributor in top_contributors:
+        username = contributor['username']
+        avatar_url = contributor['avatar_url']
+        profile_url = contributor['profile_url']
+        contributions = contributor['contributions']
+        repos_contributed = contributor.get('total_repos_contributed', 1)
+        
+        card = f"""
+    <a href="{profile_url}">
+      <img src="{avatar_url}" width="50px;" alt="{username}"/>
+      <br />
+      <sub><b>{username}</b></sub>
+    </a>
+    <a href="{profile_url}" title="Contributions">
+      <img src="https://img.shields.io/badge/Contributions-{contributions}-blue?style=flat-square" alt="Contributions"/>
+    </a>
+    <a href="{profile_url}" title="Projects Contributed">
+      <img src="https://img.shields.io/badge/Projects-{repos_contributed}-green?style=flat-square" alt="Projects"/>
+    </a>"""
+        contributor_cards.append(card)
+    
+    return f"""
+<div align="center">
+  <h3>🏆 Top Contributors</h3>
+  <p>Leading contributors across all projects:</p>
+  
+  <p align="center">
+{''.join(contributor_cards)}
+  </p>
+</div>
+"""
+
 def generate_contributors_section(data: Dict[str, Any]) -> str:
     """Generate the contributors section HTML for README."""
     
@@ -74,35 +165,12 @@ def generate_contributors_section(data: Dict[str, Any]) -> str:
 </div>
 """
     
-    # Sort contributors by contributions (descending)
-    sorted_contributors = sorted(contributors, key=lambda x: x['contributions'], reverse=True)
-    
-    # Generate contributor cards with enhanced info
-    contributor_cards = []
-    for contributor in sorted_contributors[:15]:  # Show top 15 contributors
-        username = contributor['username']
-        avatar_url = contributor['avatar_url']
-        profile_url = contributor['profile_url']
-        contributions = contributor['contributions']
-        repos_contributed = contributor.get('total_repos_contributed', 1)
-        
-        card = f"""
-    <a href="{profile_url}">
-      <img src="{avatar_url}" width="50px;" alt="{username}"/>
-      <br />
-      <sub><b>{username}</b></sub>
-    </a>
-    <a href="{profile_url}" title="Contributions">
-      <img src="https://img.shields.io/badge/Contributions-{contributions}-blue?style=flat-square" alt="Contributions"/>
-    </a>
-    <a href="{profile_url}" title="Projects Contributed">
-      <img src="https://img.shields.io/badge/Projects-{repos_contributed}-green?style=flat-square" alt="Projects"/>
-    </a>"""
-        contributor_cards.append(card)
+    # Generate all sections
+    collaboration_stats = generate_collaboration_stats_section(data)
+    top_contributors = generate_top_contributors_section(data)
+    all_contributors_grid = generate_all_contributors_grid(data)
     
     # Create the enhanced section HTML
-    collaboration_stats = generate_collaboration_stats_section(data)
-    
     section = f"""
 <div align="center">
   <h2>🤝 Contributors & Collaboration</h2>
@@ -120,9 +188,11 @@ def generate_contributors_section(data: Dict[str, Any]) -> str:
   
   <br />
   
-  <p align="center">
-{''.join(contributor_cards)}
-  </p>
+  {top_contributors}
+  
+  <br />
+  
+  {all_contributors_grid}
   
   <br />
   
