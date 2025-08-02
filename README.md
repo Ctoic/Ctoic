@@ -74,11 +74,32 @@
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
 
 <div align="center">
-  <h2>🤝 Contributors</h2>
-  <p>Thanks to all the amazing contributors who have helped make this project better!</p>
+  <h2>🤝 Contributors & Collaboration</h2>
+  <p>Showcasing my ability to collaborate with diverse teams and manage multiple projects effectively!</p>
+  
+  <div align="center">
+    <h3>🎯 Collaboration & Management Excellence</h3>
+    
+    <table>
+      <tr>
+        <td align="center">
+          <img src="https://img.shields.io/badge/Total%20Projects-60-blue?style=for-the-badge&logo=github" alt="Total Projects"/>
+        </td>
+        <td align="center">
+          <img src="https://img.shields.io/badge/Collaborative%20Projects-47-green?style=for-the-badge&logo=users" alt="Collaborative Projects"/>
+        </td>
+        <td align="center">
+          <img src="https://img.shields.io/badge/Total%20Contributions-1480-orange?style=for-the-badge&logo=code" alt="Total Contributions"/>
+        </td>
+        <td align="center">
+          <img src="https://img.shields.io/badge/Unique%20Collaborators-105-purple?style=for-the-badge&logo=user-friends" alt="Unique Collaborators"/>
+        </td>
+      </tr>
+    </table>
+  </div>
   
   <p align="center">
-    <strong>Total Contributors: 2</strong>
+    <strong>Total Contributors: 105</strong>
   </p>
   
   <p align="center">
@@ -88,7 +109,6 @@
   <br />
   
   <p align="center">
-
     <a href="https://github.com/Ctoic">
       <img src="https://avatars.githubusercontent.com/u/90936436?v=4" width="50px;" alt="Ctoic"/>
       <br />
@@ -97,13 +117,8 @@
     <a href="https://github.com/Ctoic" title="Contributions">
       <img src="https://img.shields.io/badge/Contributions-408-blue?style=flat-square" alt="Contributions"/>
     </a>
-    <a href="https://github.com/actions-user">
-      <img src="https://avatars.githubusercontent.com/u/65916846?v=4" width="50px;" alt="actions-user"/>
-      <br />
-      <sub><b>actions-user</b></sub>
-    </a>
-    <a href="https://github.com/actions-user" title="Contributions">
-      <img src="https://img.shields.io/badge/Contributions-1-blue?style=flat-square" alt="Contributions"/>
+    <a href="https://github.com/Ctoic" title="Projects Contributed">
+      <img src="https://img.shields.io/badge/Projects-60-green?style=flat-square" alt="Projects"/>
     </a>
   </p>
   
@@ -114,6 +129,18 @@
       <img src="https://contrib.rocks/image?repo=ctoic/Ctoic" alt="Contributors" />
     </a>
   </p>
+  
+  <br />
+  
+  <div align="center">
+    <h3>🚀 Project Management Skills Demonstrated</h3>
+    <p>• <strong>Multi-Project Coordination:</strong> Managing 60 repositories</p>
+    <p>• <strong>Team Collaboration:</strong> Working with 105 unique contributors</p>
+    <p>• <strong>Open Source Leadership:</strong> 47 collaborative projects</p>
+    <p>• <strong>Code Quality:</strong> 1480 total contributions across projects</p>
+    <p>• <strong>Technology Management:</strong> Coordinating teams across multiple tech stacks</p>
+    <p>• <strong>Community Building:</strong> Fostering collaboration in open source projects</p>
+  </div>
 </div>
 
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)

@@ -22,6 +22,36 @@ def load_contributors_data(filepath: str = 'data/contributors.json') -> Dict[str
             "contributors": []
         }
 
+def generate_collaboration_stats_section(data: Dict[str, Any]) -> str:
+    """Generate collaboration statistics section."""
+    
+    stats = data.get('collaboration_stats', {})
+    total_repos = data.get('total_repositories', 0)
+    repos_with_contributors = data.get('repositories_with_contributors', 0)
+    
+    return f"""
+<div align="center">
+  <h3>🎯 Collaboration & Management Excellence</h3>
+  
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Total%20Projects-{total_repos}-blue?style=for-the-badge&logo=github" alt="Total Projects"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Collaborative%20Projects-{repos_with_contributors}-green?style=for-the-badge&logo=users" alt="Collaborative Projects"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Total%20Contributions-{stats.get('total_contributions', 0)}-orange?style=for-the-badge&logo=code" alt="Total Contributions"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Unique%20Collaborators-{stats.get('unique_collaborators', 0)}-purple?style=for-the-badge&logo=user-friends" alt="Unique Collaborators"/>
+      </td>
+    </tr>
+  </table>
+</div>
+"""
+
 def generate_contributors_section(data: Dict[str, Any]) -> str:
     """Generate the contributors section HTML for README."""
     
@@ -47,13 +77,14 @@ def generate_contributors_section(data: Dict[str, Any]) -> str:
     # Sort contributors by contributions (descending)
     sorted_contributors = sorted(contributors, key=lambda x: x['contributions'], reverse=True)
     
-    # Generate contributor cards
+    # Generate contributor cards with enhanced info
     contributor_cards = []
-    for contributor in sorted_contributors[:12]:  # Show top 12 contributors
+    for contributor in sorted_contributors[:15]:  # Show top 15 contributors
         username = contributor['username']
         avatar_url = contributor['avatar_url']
         profile_url = contributor['profile_url']
         contributions = contributor['contributions']
+        repos_contributed = contributor.get('total_repos_contributed', 1)
         
         card = f"""
     <a href="{profile_url}">
@@ -63,14 +94,21 @@ def generate_contributors_section(data: Dict[str, Any]) -> str:
     </a>
     <a href="{profile_url}" title="Contributions">
       <img src="https://img.shields.io/badge/Contributions-{contributions}-blue?style=flat-square" alt="Contributions"/>
+    </a>
+    <a href="{profile_url}" title="Projects Contributed">
+      <img src="https://img.shields.io/badge/Projects-{repos_contributed}-green?style=flat-square" alt="Projects"/>
     </a>"""
         contributor_cards.append(card)
     
-    # Create the section HTML
+    # Create the enhanced section HTML
+    collaboration_stats = generate_collaboration_stats_section(data)
+    
     section = f"""
 <div align="center">
-  <h2>🤝 Contributors</h2>
-  <p>Thanks to all the amazing contributors who have helped make this project better!</p>
+  <h2>🤝 Contributors & Collaboration</h2>
+  <p>Showcasing my ability to collaborate with diverse teams and manage multiple projects effectively!</p>
+  
+  {collaboration_stats}
   
   <p align="center">
     <strong>Total Contributors: {total_contributors}</strong>
@@ -93,6 +131,18 @@ def generate_contributors_section(data: Dict[str, Any]) -> str:
       <img src="https://contrib.rocks/image?repo=ctoic/Ctoic" alt="Contributors" />
     </a>
   </p>
+  
+  <br />
+  
+  <div align="center">
+    <h3>🚀 Project Management Skills Demonstrated</h3>
+    <p>• <strong>Multi-Project Coordination:</strong> Managing {data.get('total_repositories', 0)} repositories</p>
+    <p>• <strong>Team Collaboration:</strong> Working with {total_contributors} unique contributors</p>
+    <p>• <strong>Open Source Leadership:</strong> {data.get('repositories_with_contributors', 0)} collaborative projects</p>
+    <p>• <strong>Code Quality:</strong> {data.get('collaboration_stats', {}).get('total_contributions', 0)} total contributions across projects</p>
+    <p>• <strong>Technology Management:</strong> Coordinating teams across multiple tech stacks</p>
+    <p>• <strong>Community Building:</strong> Fostering collaboration in open source projects</p>
+  </div>
 </div>
 """
     
@@ -117,7 +167,7 @@ def update_readme_contributors_section(readme_path: str = 'README.md'):
     
     # Find and replace the contributors section
     # Look for the section between the border separators
-    pattern = r'(!\[borderseparator\]\([^)]+\)\s*\n\s*<div align="center">\s*<h2>🤝 Contributors</h2>.*?</div>\s*\n\s*!\[borderseparator\]\([^)]+\))'
+    pattern = r'(!\[borderseparator\]\([^)]+\)\s*\n\s*<div align="center">\s*<h2>🤝 Contributors.*?</div>\s*\n\s*!\[borderseparator\]\([^)]+\))'
     
     # Create the replacement pattern
     replacement = f'![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)\n{new_section}\n![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)'
@@ -127,7 +177,7 @@ def update_readme_contributors_section(readme_path: str = 'README.md'):
     
     # If no match found, try a simpler pattern
     if new_content == content:
-        pattern2 = r'(<div align="center">\s*<h2>🤝 Contributors</h2>.*?</div>)'
+        pattern2 = r'(<div align="center">\s*<h2>🤝 Contributors.*?</div>)'
         new_content = re.sub(pattern2, new_section, content, flags=re.DOTALL)
     
     # Write back to file
@@ -135,8 +185,11 @@ def update_readme_contributors_section(readme_path: str = 'README.md'):
         f.write(new_content)
     
     print(f"✅ Updated contributors section in {readme_path}")
-    print(f"📊 Total contributors: {data.get('total_contributors', 0)}")
-    print(f"🕒 Last updated: {data.get('last_updated', 'Unknown')}")
+    print(f"📊 Collaboration Statistics:")
+    print(f"   • Total repositories: {data.get('total_repositories', 0)}")
+    print(f"   • Repositories with contributors: {data.get('repositories_with_contributors', 0)}")
+    print(f"   • Total unique contributors: {data.get('total_contributors', 0)}")
+    print(f"   • Total contributions: {data.get('collaboration_stats', {}).get('total_contributions', 0)}")
     
     return True
 
@@ -148,6 +201,7 @@ def main():
     
     if success:
         print("✅ README updated successfully!")
+        print("🎯 This showcases your collaboration and management skills!")
     else:
         print("❌ Failed to update README")
 
