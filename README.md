@@ -1,14 +1,10 @@
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
 
-
-
 ![pixel-night-banner](https://github.com/Ctoic/Ctoic/assets/90936436/fab74104-e85f-44fe-aa92-9eb7aba51e30)
-
 
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=435&lines=Hello+Geeks!;I'm+Najam+Ali+Abbas;Dreamer+and+Doer;Sophomore+Computer+Science+Student;Passionate+About+Web+Development;Open-Source+Contributor;AI+and+Machine+Learning+Aspirant;Coding+is+My+Superpower;Embracing+Challenges;Knowledge+Grows+When+Shared;The+Journey+is+the+Reward;Keep+Building,+Keep+Learning!)](https://git.io/typing-svg)
-
 
 <div id="header" align="center">
 <div id="badges">
@@ -22,33 +18,25 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-  </div>
+</div>
 <br>
-
 
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
 
-
-
 <h2 align="center"> Hacktoberfest Badges 🏆</h2>
   
-  [![An image of @ctoic's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ctoic)](https://holopin.io/@ctoic)
-  
-</div>
+[![An image of @ctoic's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ctoic)](https://holopin.io/@ctoic)
 
 <br>
 <div align="center">
 <h2>Visitor's Count</h2>
 
-
 ![Visitor Count](https://profile-counter.glitch.me/{Ctoic}/count.svg) 
-
 
 </div>
 
- <div>
-<h2 alig="center"> Github States and Languages Used  </h2>
-
+<div>
+<h2 align="center"> Github Stats and Languages Used 📊 </h2>
 </div>
 
 <table>
@@ -63,55 +51,119 @@
     </td>
   </tr>
 </table>
- <div align="center">
 
-
-
-
+<div align="center">
     
-  [![Ctoic's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ctoic&theme=gotham)](https://github.com/ctoic/github-readme-activity-graph)
-
-
-
-
+[![Ctoic's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ctoic&theme=gotham)](https://github.com/ctoic/github-readme-activity-graph)
 
 </div>
 
-
+<div align="center">
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=ctoic&theme=algolia)](https://github.com/ctoic/github-profile-trophy)
+
 </div>
 
- <div align="center"> 
+<div align="center"> 
   <h2>Languages and Tools 🧰</h2>
    
  [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,cs,html,css,javascript,php,magento,bash,bootstrap,django,flask,docker,eclipse,figma,github,ai,linux,md,netlify,vim,visualstudio,&theme=dark&perline=12)](https://skillicons.dev)
 
 </div>
 
-
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
 
-### Goals For 2024 🥅
-- Goal For 2024 : Want to be among the top contributors of Pakistan and want to fill everysquare
-- Contribute or Start a Project to help mitigate Climate change
-- Earn 💵🤑
-- Built Open Source Community For Pakistan
-- Contribute so Pakistan Developer community on GitHub Grow
-- atleast 10 Seminors and Workshops for students
-- Go to Gym Daily 🏋️
-- Built a product
-- Start a Buisness
-- Spend Quality time with family
-- proud to be featured On Github Education : https://www.instagram.com/p/CzHNzsrrVAt/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
+## 🎯 My Goals & Journey
 
+<div align="center">
+
+### Click on a year to see my goals! 👇
+
+<table>
+  <tr>
+    <td align="center">
+      <details>
+        <summary><strong>🎯 2022 Goals</strong></summary>
+        <br>
+        <ul align="left">
+          <li>🎓 Complete first year of Computer Science with excellence</li>
+          <li>💻 Learn fundamentals of programming (C++, Python)</li>
+          <li>🌐 Build my first website</li>
+          <li>📚 Read 12 programming books</li>
+          <li>🤝 Join developer communities</li>
+          <li>💪 Establish consistent study routine</li>
+          <li>🏆 Participate in coding competitions</li>
+          <li>📱 Create first mobile app prototype</li>
+        </ul>
+      </details>
+    </td>
+    <td align="center">
+      <details>
+        <summary><strong>🚀 2023 Goals</strong></summary>
+        <br>
+        <ul align="left">
+          <li>🌟 Master web development (HTML, CSS, JavaScript)</li>
+          <li>⚛️ Learn React and modern frameworks</li>
+          <li>🐍 Dive deep into Python and Django</li>
+          <li>🔥 Contribute to 5+ open source projects</li>
+          <li>📈 Build and deploy 3 full-stack projects</li>
+          <li>🎤 Give my first tech talk</li>
+          <li>👥 Mentor junior developers</li>
+          <li>💼 Complete first internship</li>
+          <li>🏃‍♂️ Maintain work-life balance</li>
+        </ul>
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <details>
+        <summary><strong>⭐ 2024 Goals</strong></summary>
+        <br>
+        <ul align="left">
+          <li>🇵🇰 Be among top contributors of Pakistan</li>
+          <li>🌍 Contribute to Climate change mitigation project</li>
+          <li>💰 Earn through freelancing and projects</li>
+          <li>🤝 Build Open Source Community for Pakistan</li>
+          <li>📈 Grow Pakistan Developer community on GitHub</li>
+          <li>🎓 Conduct 10+ seminars and workshops for students</li>
+          <li>🏋️ Go to gym daily and maintain fitness</li>
+          <li>🚀 Build and launch a product</li>
+          <li>💼 Start a business venture</li>
+          <li>👨‍👩‍👧‍👦 Spend quality time with family</li>
+          <li>🎉 Proud to be featured on <a href="https://www.instagram.com/p/CzHNzsrrVAt/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">GitHub Education</a></li>
+        </ul>
+      </details>
+    </td>
+    <td align="center">
+      <details>
+        <summary><strong>🌟 2025 Goals</strong></summary>
+        <br>
+        <ul align="left">
+          <li>🧠 Master AI/ML and contribute to innovative projects</li>
+          <li>🌐 Launch SaaS product with global reach</li>
+          <li>📚 Publish technical articles and tutorials</li>
+          <li>🎯 Achieve 1000+ GitHub followers</li>
+          <li>🏆 Win major hackathons and coding competitions</li>
+          <li>💼 Scale business to 6-figure revenue</li>
+          <li>🎓 Complete advanced certifications in cloud computing</li>
+          <li>🌍 Speak at international tech conferences</li>
+          <li>👥 Build team of 10+ developers</li>
+          <li>📖 Write and publish a programming book</li>
+          <li>🏠 Invest in real estate</li>
+          <li>💪 Complete a marathon</li>
+        </ul>
+      </details>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
 
-
-
 <div align="center">
-  <h2>Top Programming Languages</h2>
+  <h2>Top Programming Languages 💻</h2>
   <table>
     <tr>
       <td align="center">
@@ -130,8 +182,13 @@
   </table>
 </div>
 
+![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
 
+<div align="center">
+  
+### 💡 "The best time to plant a tree was 20 years ago. The second best time is now." 
+### Keep coding, keep growing! 🚀
 
- ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
-          
+</div>
+
 ![animated-wave](https://github.com/Ctoic/Ctoic/assets/90936436/f12da875-8704-4e89-80f8-31c42713adec)
