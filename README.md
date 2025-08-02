@@ -73,6 +73,76 @@
 
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
 
+<div align="center">
+  <h2>🤝 Contributors</h2>
+  <p>Thanks to all the amazing contributors who have helped make this project better!</p>
+  
+  <p align="center">
+    <strong>Total Contributors: <span id="contributor-count">Loading...</span></strong>
+  </p>
+  
+  <p align="center">
+    <em>Last updated: <span id="last-updated">Loading...</span></em>
+  </p>
+  
+  <br />
+  
+  <div id="contributors-grid" align="center">
+    <p>Loading contributors...</p>
+  </div>
+  
+  <br />
+  
+  <p align="center">
+    <a href="https://github.com/ctoic/Ctoic/graphs/contributors">
+      <img src="https://contrib.rocks/image?repo=ctoic/Ctoic" alt="Contributors" />
+    </a>
+  </p>
+</div>
+
+<script>
+// Load contributors data and update the section
+fetch('https://raw.githubusercontent.com/ctoic/Ctoic/main/data/contributors.json')
+  .then(response => response.json())
+  .then(data => {
+    const contributors = data.contributors || [];
+    const totalContributors = data.total_contributors || 0;
+    const lastUpdated = data.last_updated || 'Unknown';
+    
+    // Update counts
+    document.getElementById('contributor-count').textContent = totalContributors;
+    document.getElementById('last-updated').textContent = new Date(lastUpdated).toLocaleDateString();
+    
+    // Generate contributor cards
+    const contributorsGrid = document.getElementById('contributors-grid');
+    if (contributors.length === 0) {
+      contributorsGrid.innerHTML = '<p>No contributors found yet. Be the first to contribute!</p>';
+    } else {
+      const sortedContributors = contributors.sort((a, b) => b.contributions - a.contributions);
+      const topContributors = sortedContributors.slice(0, 12); // Show top 12
+      
+      const contributorCards = topContributors.map(contributor => `
+        <a href="${contributor.profile_url}">
+          <img src="${contributor.avatar_url}" width="50px;" alt="${contributor.username}"/>
+          <br />
+          <sub><b>${contributor.username}</b></sub>
+        </a>
+        <a href="${contributor.profile_url}" title="Contributions">
+          <img src="https://img.shields.io/badge/Contributions-${contributor.contributions}-blue?style=flat-square" alt="Contributions"/>
+        </a>
+      `).join('');
+      
+      contributorsGrid.innerHTML = `<p align="center">${contributorCards}</p>`;
+    }
+  })
+  .catch(error => {
+    console.error('Error loading contributors:', error);
+    document.getElementById('contributors-grid').innerHTML = '<p>Error loading contributors. Please try again later.</p>';
+  });
+</script>
+
+![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
+
 ## 🎯 My Goals & Journey
 
 <div align="center">
