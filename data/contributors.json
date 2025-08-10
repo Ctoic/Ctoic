@@ -1,9 +1,29 @@
 {
-  "last_updated": "2025-08-03T01:18:48.137604+00:00",
+  "last_updated": "2025-08-10T01:16:26.121412+00:00",
   "total_contributors": 283,
   "total_repositories": 141,
   "repositories_with_contributors": 136,
   "repositories": [
+    {
+      "name": "Python-For-Beginners",
+      "full_name": "Ctoic/Python-For-Beginners",
+      "url": "https://github.com/Ctoic/Python-For-Beginners",
+      "description": "This repository contain all the basic concepts of Python.",
+      "language": "Python",
+      "stars": 14,
+      "forks": 8,
+      "contributor_count": 2
+    },
+    {
+      "name": "CISCO-packettracer",
+      "full_name": "Ctoic/CISCO-packettracer",
+      "url": "https://github.com/Ctoic/CISCO-packettracer",
+      "description": "This GitHub repository is dedicated to Packet Tracer network simulations, which are used to practice, learn, and test networking concepts in a virtual environment. The repository contains various network simulation projects and configurations that can be easily downloaded and imported into Packet Tracer.",
+      "language": null,
+      "stars": 3,
+      "forks": 0,
+      "contributor_count": 1
+    },
     {
       "name": "Ctoic",
       "full_name": "Ctoic/Ctoic",
@@ -45,23 +65,13 @@
       "contributor_count": 1
     },
     {
-      "name": "Python-For-Beginners",
-      "full_name": "Ctoic/Python-For-Beginners",
-      "url": "https://github.com/Ctoic/Python-For-Beginners",
-      "description": "This repository contain all the basic concepts of Python.",
-      "language": "Python",
-      "stars": 15,
-      "forks": 8,
-      "contributor_count": 2
-    },
-    {
       "name": "CalHub",
       "full_name": "Ctoic/CalHub",
       "url": "https://github.com/Ctoic/CalHub",
       "description": "The \"Calculator\" repository on GitHub is a comprehensive codebase for building a functional calculator using HTML, CSS, and JavaScript. The repository is open-source, allowing developers to freely contribute and use the code.",
       "language": "CSS",
       "stars": 27,
-      "forks": 37,
+      "forks": 36,
       "contributor_count": 30
     },
     {
@@ -91,7 +101,7 @@
       "description": "Collection of your faviorite books. ",
       "language": "HTML",
       "stars": 18,
-      "forks": 52,
+      "forks": 53,
       "contributor_count": 25
     },
     {
@@ -373,16 +383,6 @@
       "stars": 0,
       "forks": 0,
       "contributor_count": 2
-    },
-    {
-      "name": "CISCO-packettracer",
-      "full_name": "Ctoic/CISCO-packettracer",
-      "url": "https://github.com/Ctoic/CISCO-packettracer",
-      "description": "This GitHub repository is dedicated to Packet Tracer network simulations, which are used to practice, learn, and test networking concepts in a virtual environment. The repository contains various network simulation projects and configurations that can be easily downloaded and imported into Packet Tracer.",
-      "language": null,
-      "stars": 2,
-      "forks": 0,
-      "contributor_count": 1
     },
     {
       "name": "DevOps-Crash-Course",
@@ -1404,20 +1404,21 @@
       "username": "Ctoic",
       "avatar_url": "https://avatars.githubusercontent.com/u/90936436?v=4",
       "profile_url": "https://github.com/Ctoic",
-      "contributions": 1282,
-      "repository": "ctoic/Ctoic",
-      "repository_name": "Ctoic",
-      "repository_url": "https://github.com/ctoic/Ctoic",
-      "repo_stars": 3,
-      "repo_forks": 4,
+      "contributions": 1284,
+      "repository": "ctoic/Python-For-Beginners",
+      "repository_name": "Python-For-Beginners",
+      "repository_url": "https://github.com/ctoic/Python-For-Beginners",
+      "repo_stars": 14,
+      "repo_forks": 8,
       "repo_language": "Python",
-      "repo_description": "About Najam Ali Abbas ",
+      "repo_description": "This repository contain all the basic concepts of Python.",
       "repositories_contributed": [
+        "ctoic/Python-For-Beginners",
+        "ctoic/CISCO-packettracer",
         "ctoic/Ctoic",
         "ctoic/Hostel-Management-System-Using-Flask",
         "ctoic/Python-For-Physics",
         "ctoic/agentica",
-        "ctoic/Python-For-Beginners",
         "ctoic/CalHub",
         "ctoic/CampusHive-Frontend",
         "ctoic/Lisbook",
@@ -1446,7 +1447,6 @@
         "ctoic/Mini-Max-Algorithm-on-Ludo-Game",
         "ctoic/ShopHere",
         "ctoic/skills-github-pages",
-        "ctoic/CISCO-packettracer",
         "ctoic/Task-Manager",
         "ctoic/Advance-OOP",
         "ctoic/2FA-with-PHP",
@@ -1530,7 +1530,7 @@
       "username": "actions-user",
       "avatar_url": "https://avatars.githubusercontent.com/u/65916846?v=4",
       "profile_url": "https://github.com/actions-user",
-      "contributions": 760,
+      "contributions": 761,
       "repository": "ctoic/Ctoic",
       "repository_name": "Ctoic",
       "repository_url": "https://github.com/ctoic/Ctoic",
@@ -2205,7 +2205,7 @@
       "repository_name": "Lisbook",
       "repository_url": "https://github.com/ctoic/Lisbook",
       "repo_stars": 18,
-      "repo_forks": 52,
+      "repo_forks": 53,
       "repo_language": "HTML",
       "repo_description": "Collection of your faviorite books. ",
       "repositories_contributed": [
@@ -2343,7 +2343,7 @@
       "repository_name": "Lisbook",
       "repository_url": "https://github.com/ctoic/Lisbook",
       "repo_stars": 18,
-      "repo_forks": 52,
+      "repo_forks": 53,
       "repo_language": "HTML",
       "repo_description": "Collection of your faviorite books. ",
       "repositories_contributed": [
@@ -2377,7 +2377,7 @@
       "repository": "ctoic/Python-For-Beginners",
       "repository_name": "Python-For-Beginners",
       "repository_url": "https://github.com/ctoic/Python-For-Beginners",
-      "repo_stars": 15,
+      "repo_stars": 14,
       "repo_forks": 8,
       "repo_language": "Python",
       "repo_description": "This repository contain all the basic concepts of Python.",
@@ -2447,7 +2447,7 @@
       "repository_name": "Lisbook",
       "repository_url": "https://github.com/ctoic/Lisbook",
       "repo_stars": 18,
-      "repo_forks": 52,
+      "repo_forks": 53,
       "repo_language": "HTML",
       "repo_description": "Collection of your faviorite books. ",
       "repositories_contributed": [
@@ -2498,7 +2498,7 @@
       "repository_name": "CalHub",
       "repository_url": "https://github.com/ctoic/CalHub",
       "repo_stars": 27,
-      "repo_forks": 37,
+      "repo_forks": 36,
       "repo_language": "CSS",
       "repo_description": "The \"Calculator\" repository on GitHub is a comprehensive codebase for building a functional calculator using HTML, CSS, and JavaScript. The repository is open-source, allowing developers to freely contribute and use the code.",
       "repositories_contributed": [
@@ -2583,7 +2583,7 @@
       "repository_name": "CalHub",
       "repository_url": "https://github.com/ctoic/CalHub",
       "repo_stars": 27,
-      "repo_forks": 37,
+      "repo_forks": 36,
       "repo_language": "CSS",
       "repo_description": "The \"Calculator\" repository on GitHub is a comprehensive codebase for building a functional calculator using HTML, CSS, and JavaScript. The repository is open-source, allowing developers to freely contribute and use the code.",
       "repositories_contributed": [
@@ -2602,7 +2602,7 @@
       "repository_name": "Lisbook",
       "repository_url": "https://github.com/ctoic/Lisbook",
       "repo_stars": 18,
-      "repo_forks": 52,
+      "repo_forks": 53,
       "repo_language": "HTML",
       "repo_description": "Collection of your faviorite books. ",
       "repositories_contributed": [
@@ -2619,7 +2619,7 @@
       "repository_name": "CalHub",
       "repository_url": "https://github.com/ctoic/CalHub",
       "repo_stars": 27,
-      "repo_forks": 37,
+      "repo_forks": 36,
       "repo_language": "CSS",
       "repo_description": "The \"Calculator\" repository on GitHub is a comprehensive codebase for building a functional calculator using HTML, CSS, and JavaScript. The repository is open-source, allowing developers to freely contribute and use the code.",
       "repositories_contributed": [
@@ -2742,7 +2742,7 @@
       "repository_name": "CalHub",
       "repository_url": "https://github.com/ctoic/CalHub",
       "repo_stars": 27,
-      "repo_forks": 37,
+      "repo_forks": 36,
       "repo_language": "CSS",
       "repo_description": "The \"Calculator\" repository on GitHub is a comprehensive codebase for building a functional calculator using HTML, CSS, and JavaScript. The repository is open-source, allowing developers to freely contribute and use the code.",
       "repositories_contributed": [
@@ -2776,7 +2776,7 @@
       "repository_name": "Lisbook",
       "repository_url": "https://github.com/ctoic/Lisbook",
       "repo_stars": 18,
-      "repo_forks": 52,
+      "repo_forks": 53,
       "repo_language": "HTML",
       "repo_description": "Collection of your faviorite books. ",
       "repositories_contributed": [
@@ -2916,7 +2916,7 @@
       "repository_name": "CalHub",
       "repository_url": "https://github.com/ctoic/CalHub",
       "repo_stars": 27,
-      "repo_forks": 37,
+      "repo_forks": 36,
       "repo_language": "CSS",
       "repo_description": "The \"Calculator\" repository on GitHub is a comprehensive codebase for building a functional calculator using HTML, CSS, and JavaScript. The repository is open-source, allowing developers to freely contribute and use the code.",
       "repositories_contributed": [
@@ -2933,7 +2933,7 @@
       "repository_name": "CalHub",
       "repository_url": "https://github.com/ctoic/CalHub",
       "repo_stars": 27,
-      "repo_forks": 37,
+      "repo_forks": 36,
       "repo_language": "CSS",
       "repo_description": "The \"Calculator\" repository on GitHub is a comprehensive codebase for building a functional calculator using HTML, CSS, and JavaScript. The repository is open-source, allowing developers to freely contribute and use the code.",
       "repositories_contributed": [
@@ -2950,7 +2950,7 @@
       "repository_name": "Lisbook",
       "repository_url": "https://github.com/ctoic/Lisbook",
       "repo_stars": 18,
-      "repo_forks": 52,
+      "repo_forks": 53,
       "repo_language": "HTML",
       "repo_description": "Collection of your faviorite books. ",
       "repositories_contributed": [
@@ -3069,7 +3069,7 @@
       "repository_name": "Lisbook",
       "repository_url": "https://github.com/ctoic/Lisbook",
       "repo_stars": 18,
-      "repo_forks": 52,
+      "repo_forks": 53,
       "repo_language": "HTML",
       "repo_description": "Collection of your faviorite books. ",
       "repositories_contributed": [
@@ -3086,7 +3086,7 @@
       "repository_name": "Lisbook",
       "repository_url": "https://github.com/ctoic/Lisbook",
       "repo_stars": 18,
-      "repo_forks": 52,
+      "repo_forks": 53,
       "repo_language": "HTML",
       "repo_description": "Collection of your faviorite books. ",
       "repositories_contributed": [
@@ -3172,7 +3172,7 @@
       "repository_name": "CalHub",
       "repository_url": "https://github.com/ctoic/CalHub",
       "repo_stars": 27,
-      "repo_forks": 37,
+      "repo_forks": 36,
       "repo_language": "CSS",
       "repo_description": "The \"Calculator\" repository on GitHub is a comprehensive codebase for building a functional calculator using HTML, CSS, and JavaScript. The repository is open-source, allowing developers to freely contribute and use the code.",
       "repositories_contributed": [
@@ -3189,7 +3189,7 @@
       "repository_name": "CalHub",
       "repository_url": "https://github.com/ctoic/CalHub",
       "repo_stars": 27,
-      "repo_forks": 37,
+      "repo_forks": 36,
       "repo_language": "CSS",
       "repo_description": "The \"Calculator\" repository on GitHub is a comprehensive codebase for building a functional calculator using HTML, CSS, and JavaScript. The repository is open-source, allowing developers to freely contribute and use the code.",
       "repositories_contributed": [
@@ -3206,7 +3206,7 @@
       "repository_name": "CalHub",
       "repository_url": "https://github.com/ctoic/CalHub",
       "repo_stars": 27,
-      "repo_forks": 37,
+      "repo_forks": 36,
       "repo_language": "CSS",
       "repo_description": "The \"Calculator\" repository on GitHub is a comprehensive codebase for building a functional calculator using HTML, CSS, and JavaScript. The repository is open-source, allowing developers to freely contribute and use the code.",
       "repositories_contributed": [
@@ -3224,7 +3224,7 @@
       "repository_name": "Lisbook",
       "repository_url": "https://github.com/ctoic/Lisbook",
       "repo_stars": 18,
-      "repo_forks": 52,
+      "repo_forks": 53,
       "repo_language": "HTML",
       "repo_description": "Collection of your faviorite books. ",
       "repositories_contributed": [
@@ -3241,7 +3241,7 @@
       "repository_name": "Lisbook",
       "repository_url": "https://github.com/ctoic/Lisbook",
       "repo_stars": 18,
-      "repo_forks": 52,
+      "repo_forks": 53,
       "repo_language": "HTML",
       "repo_description": "Collection of your faviorite books. ",
       "repositories_contributed": [
@@ -3600,7 +3600,7 @@
       "repository_name": "CalHub",
       "repository_url": "https://github.com/ctoic/CalHub",
       "repo_stars": 27,
-      "repo_forks": 37,
+      "repo_forks": 36,
       "repo_language": "CSS",
       "repo_description": "The \"Calculator\" repository on GitHub is a comprehensive codebase for building a functional calculator using HTML, CSS, and JavaScript. The repository is open-source, allowing developers to freely contribute and use the code.",
       "repositories_contributed": [
@@ -3617,7 +3617,7 @@
       "repository_name": "CalHub",
       "repository_url": "https://github.com/ctoic/CalHub",
       "repo_stars": 27,
-      "repo_forks": 37,
+      "repo_forks": 36,
       "repo_language": "CSS",
       "repo_description": "The \"Calculator\" repository on GitHub is a comprehensive codebase for building a functional calculator using HTML, CSS, and JavaScript. The repository is open-source, allowing developers to freely contribute and use the code.",
       "repositories_contributed": [
@@ -3994,7 +3994,7 @@
       "repository_name": "CalHub",
       "repository_url": "https://github.com/ctoic/CalHub",
       "repo_stars": 27,
-      "repo_forks": 37,
+      "repo_forks": 36,
       "repo_language": "CSS",
       "repo_description": "The \"Calculator\" repository on GitHub is a comprehensive codebase for building a functional calculator using HTML, CSS, and JavaScript. The repository is open-source, allowing developers to freely contribute and use the code.",
       "repositories_contributed": [
@@ -4011,7 +4011,7 @@
       "repository_name": "CalHub",
       "repository_url": "https://github.com/ctoic/CalHub",
       "repo_stars": 27,
-      "repo_forks": 37,
+      "repo_forks": 36,
       "repo_language": "CSS",
       "repo_description": "The \"Calculator\" repository on GitHub is a comprehensive codebase for building a functional calculator using HTML, CSS, and JavaScript. The repository is open-source, allowing developers to freely contribute and use the code.",
       "repositories_contributed": [
@@ -4028,7 +4028,7 @@
       "repository_name": "CalHub",
       "repository_url": "https://github.com/ctoic/CalHub",
       "repo_stars": 27,
-      "repo_forks": 37,
+      "repo_forks": 36,
       "repo_language": "CSS",
       "repo_description": "The \"Calculator\" repository on GitHub is a comprehensive codebase for building a functional calculator using HTML, CSS, and JavaScript. The repository is open-source, allowing developers to freely contribute and use the code.",
       "repositories_contributed": [
@@ -4045,7 +4045,7 @@
       "repository_name": "CalHub",
       "repository_url": "https://github.com/ctoic/CalHub",
       "repo_stars": 27,
-      "repo_forks": 37,
+      "repo_forks": 36,
       "repo_language": "CSS",
       "repo_description": "The \"Calculator\" repository on GitHub is a comprehensive codebase for building a functional calculator using HTML, CSS, and JavaScript. The repository is open-source, allowing developers to freely contribute and use the code.",
       "repositories_contributed": [
@@ -4063,7 +4063,7 @@
       "repository_name": "Lisbook",
       "repository_url": "https://github.com/ctoic/Lisbook",
       "repo_stars": 18,
-      "repo_forks": 52,
+      "repo_forks": 53,
       "repo_language": "HTML",
       "repo_description": "Collection of your faviorite books. ",
       "repositories_contributed": [
@@ -4080,7 +4080,7 @@
       "repository_name": "Lisbook",
       "repository_url": "https://github.com/ctoic/Lisbook",
       "repo_stars": 18,
-      "repo_forks": 52,
+      "repo_forks": 53,
       "repo_language": "HTML",
       "repo_description": "Collection of your faviorite books. ",
       "repositories_contributed": [
@@ -4097,7 +4097,7 @@
       "repository_name": "Lisbook",
       "repository_url": "https://github.com/ctoic/Lisbook",
       "repo_stars": 18,
-      "repo_forks": 52,
+      "repo_forks": 53,
       "repo_language": "HTML",
       "repo_description": "Collection of your faviorite books. ",
       "repositories_contributed": [
@@ -4114,7 +4114,7 @@
       "repository_name": "Lisbook",
       "repository_url": "https://github.com/ctoic/Lisbook",
       "repo_stars": 18,
-      "repo_forks": 52,
+      "repo_forks": 53,
       "repo_language": "HTML",
       "repo_description": "Collection of your faviorite books. ",
       "repositories_contributed": [
@@ -4913,7 +4913,7 @@
       "repository_name": "CalHub",
       "repository_url": "https://github.com/ctoic/CalHub",
       "repo_stars": 27,
-      "repo_forks": 37,
+      "repo_forks": 36,
       "repo_language": "CSS",
       "repo_description": "The \"Calculator\" repository on GitHub is a comprehensive codebase for building a functional calculator using HTML, CSS, and JavaScript. The repository is open-source, allowing developers to freely contribute and use the code.",
       "repositories_contributed": [
@@ -4930,7 +4930,7 @@
       "repository_name": "CalHub",
       "repository_url": "https://github.com/ctoic/CalHub",
       "repo_stars": 27,
-      "repo_forks": 37,
+      "repo_forks": 36,
       "repo_language": "CSS",
       "repo_description": "The \"Calculator\" repository on GitHub is a comprehensive codebase for building a functional calculator using HTML, CSS, and JavaScript. The repository is open-source, allowing developers to freely contribute and use the code.",
       "repositories_contributed": [
@@ -4947,7 +4947,7 @@
       "repository_name": "CalHub",
       "repository_url": "https://github.com/ctoic/CalHub",
       "repo_stars": 27,
-      "repo_forks": 37,
+      "repo_forks": 36,
       "repo_language": "CSS",
       "repo_description": "The \"Calculator\" repository on GitHub is a comprehensive codebase for building a functional calculator using HTML, CSS, and JavaScript. The repository is open-source, allowing developers to freely contribute and use the code.",
       "repositories_contributed": [
@@ -4964,7 +4964,7 @@
       "repository_name": "CalHub",
       "repository_url": "https://github.com/ctoic/CalHub",
       "repo_stars": 27,
-      "repo_forks": 37,
+      "repo_forks": 36,
       "repo_language": "CSS",
       "repo_description": "The \"Calculator\" repository on GitHub is a comprehensive codebase for building a functional calculator using HTML, CSS, and JavaScript. The repository is open-source, allowing developers to freely contribute and use the code.",
       "repositories_contributed": [
@@ -4981,7 +4981,7 @@
       "repository_name": "CalHub",
       "repository_url": "https://github.com/ctoic/CalHub",
       "repo_stars": 27,
-      "repo_forks": 37,
+      "repo_forks": 36,
       "repo_language": "CSS",
       "repo_description": "The \"Calculator\" repository on GitHub is a comprehensive codebase for building a functional calculator using HTML, CSS, and JavaScript. The repository is open-source, allowing developers to freely contribute and use the code.",
       "repositories_contributed": [
@@ -4998,7 +4998,7 @@
       "repository_name": "CalHub",
       "repository_url": "https://github.com/ctoic/CalHub",
       "repo_stars": 27,
-      "repo_forks": 37,
+      "repo_forks": 36,
       "repo_language": "CSS",
       "repo_description": "The \"Calculator\" repository on GitHub is a comprehensive codebase for building a functional calculator using HTML, CSS, and JavaScript. The repository is open-source, allowing developers to freely contribute and use the code.",
       "repositories_contributed": [
@@ -5015,7 +5015,7 @@
       "repository_name": "CalHub",
       "repository_url": "https://github.com/ctoic/CalHub",
       "repo_stars": 27,
-      "repo_forks": 37,
+      "repo_forks": 36,
       "repo_language": "CSS",
       "repo_description": "The \"Calculator\" repository on GitHub is a comprehensive codebase for building a functional calculator using HTML, CSS, and JavaScript. The repository is open-source, allowing developers to freely contribute and use the code.",
       "repositories_contributed": [
@@ -5032,7 +5032,7 @@
       "repository_name": "CalHub",
       "repository_url": "https://github.com/ctoic/CalHub",
       "repo_stars": 27,
-      "repo_forks": 37,
+      "repo_forks": 36,
       "repo_language": "CSS",
       "repo_description": "The \"Calculator\" repository on GitHub is a comprehensive codebase for building a functional calculator using HTML, CSS, and JavaScript. The repository is open-source, allowing developers to freely contribute and use the code.",
       "repositories_contributed": [
@@ -5049,7 +5049,7 @@
       "repository_name": "CalHub",
       "repository_url": "https://github.com/ctoic/CalHub",
       "repo_stars": 27,
-      "repo_forks": 37,
+      "repo_forks": 36,
       "repo_language": "CSS",
       "repo_description": "The \"Calculator\" repository on GitHub is a comprehensive codebase for building a functional calculator using HTML, CSS, and JavaScript. The repository is open-source, allowing developers to freely contribute and use the code.",
       "repositories_contributed": [
@@ -5066,7 +5066,7 @@
       "repository_name": "CalHub",
       "repository_url": "https://github.com/ctoic/CalHub",
       "repo_stars": 27,
-      "repo_forks": 37,
+      "repo_forks": 36,
       "repo_language": "CSS",
       "repo_description": "The \"Calculator\" repository on GitHub is a comprehensive codebase for building a functional calculator using HTML, CSS, and JavaScript. The repository is open-source, allowing developers to freely contribute and use the code.",
       "repositories_contributed": [
@@ -5083,7 +5083,7 @@
       "repository_name": "CalHub",
       "repository_url": "https://github.com/ctoic/CalHub",
       "repo_stars": 27,
-      "repo_forks": 37,
+      "repo_forks": 36,
       "repo_language": "CSS",
       "repo_description": "The \"Calculator\" repository on GitHub is a comprehensive codebase for building a functional calculator using HTML, CSS, and JavaScript. The repository is open-source, allowing developers to freely contribute and use the code.",
       "repositories_contributed": [
@@ -5100,7 +5100,7 @@
       "repository_name": "CalHub",
       "repository_url": "https://github.com/ctoic/CalHub",
       "repo_stars": 27,
-      "repo_forks": 37,
+      "repo_forks": 36,
       "repo_language": "CSS",
       "repo_description": "The \"Calculator\" repository on GitHub is a comprehensive codebase for building a functional calculator using HTML, CSS, and JavaScript. The repository is open-source, allowing developers to freely contribute and use the code.",
       "repositories_contributed": [
@@ -5134,7 +5134,7 @@
       "repository_name": "Lisbook",
       "repository_url": "https://github.com/ctoic/Lisbook",
       "repo_stars": 18,
-      "repo_forks": 52,
+      "repo_forks": 53,
       "repo_language": "HTML",
       "repo_description": "Collection of your faviorite books. ",
       "repositories_contributed": [
@@ -5151,7 +5151,7 @@
       "repository_name": "Lisbook",
       "repository_url": "https://github.com/ctoic/Lisbook",
       "repo_stars": 18,
-      "repo_forks": 52,
+      "repo_forks": 53,
       "repo_language": "HTML",
       "repo_description": "Collection of your faviorite books. ",
       "repositories_contributed": [
@@ -5168,7 +5168,7 @@
       "repository_name": "Lisbook",
       "repository_url": "https://github.com/ctoic/Lisbook",
       "repo_stars": 18,
-      "repo_forks": 52,
+      "repo_forks": 53,
       "repo_language": "HTML",
       "repo_description": "Collection of your faviorite books. ",
       "repositories_contributed": [
@@ -5185,7 +5185,7 @@
       "repository_name": "Lisbook",
       "repository_url": "https://github.com/ctoic/Lisbook",
       "repo_stars": 18,
-      "repo_forks": 52,
+      "repo_forks": 53,
       "repo_language": "HTML",
       "repo_description": "Collection of your faviorite books. ",
       "repositories_contributed": [
@@ -5202,7 +5202,7 @@
       "repository_name": "Lisbook",
       "repository_url": "https://github.com/ctoic/Lisbook",
       "repo_stars": 18,
-      "repo_forks": 52,
+      "repo_forks": 53,
       "repo_language": "HTML",
       "repo_description": "Collection of your faviorite books. ",
       "repositories_contributed": [
@@ -5219,7 +5219,7 @@
       "repository_name": "Lisbook",
       "repository_url": "https://github.com/ctoic/Lisbook",
       "repo_stars": 18,
-      "repo_forks": 52,
+      "repo_forks": 53,
       "repo_language": "HTML",
       "repo_description": "Collection of your faviorite books. ",
       "repositories_contributed": [
@@ -5236,7 +5236,7 @@
       "repository_name": "Lisbook",
       "repository_url": "https://github.com/ctoic/Lisbook",
       "repo_stars": 18,
-      "repo_forks": 52,
+      "repo_forks": 53,
       "repo_language": "HTML",
       "repo_description": "Collection of your faviorite books. ",
       "repositories_contributed": [
@@ -5253,7 +5253,7 @@
       "repository_name": "Lisbook",
       "repository_url": "https://github.com/ctoic/Lisbook",
       "repo_stars": 18,
-      "repo_forks": 52,
+      "repo_forks": 53,
       "repo_language": "HTML",
       "repo_description": "Collection of your faviorite books. ",
       "repositories_contributed": [
@@ -6319,7 +6319,7 @@
   "collaboration_stats": {
     "total_projects": 141,
     "projects_with_collaborators": 136,
-    "total_contributions": 27040,
+    "total_contributions": 27043,
     "unique_collaborators": 283
   }
 }
