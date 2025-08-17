@@ -1,9 +1,19 @@
 {
-  "last_updated": "2025-08-10T01:16:26.121412+00:00",
+  "last_updated": "2025-08-17T01:12:39.577775+00:00",
   "total_contributors": 283,
   "total_repositories": 141,
   "repositories_with_contributors": 136,
   "repositories": [
+    {
+      "name": "Ctoic",
+      "full_name": "Ctoic/Ctoic",
+      "url": "https://github.com/Ctoic/Ctoic",
+      "description": "About Najam Ali Abbas ",
+      "language": "Python",
+      "stars": 3,
+      "forks": 4,
+      "contributor_count": 2
+    },
     {
       "name": "Python-For-Beginners",
       "full_name": "Ctoic/Python-For-Beginners",
@@ -23,16 +33,6 @@
       "stars": 3,
       "forks": 0,
       "contributor_count": 1
-    },
-    {
-      "name": "Ctoic",
-      "full_name": "Ctoic/Ctoic",
-      "url": "https://github.com/Ctoic/Ctoic",
-      "description": "About Najam Ali Abbas ",
-      "language": "Python",
-      "stars": 3,
-      "forks": 4,
-      "contributor_count": 2
     },
     {
       "name": "Hostel-Management-System-Using-Flask",
@@ -101,7 +101,7 @@
       "description": "Collection of your faviorite books. ",
       "language": "HTML",
       "stars": 18,
-      "forks": 53,
+      "forks": 52,
       "contributor_count": 25
     },
     {
@@ -1405,17 +1405,17 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/90936436?v=4",
       "profile_url": "https://github.com/Ctoic",
       "contributions": 1284,
-      "repository": "ctoic/Python-For-Beginners",
-      "repository_name": "Python-For-Beginners",
-      "repository_url": "https://github.com/ctoic/Python-For-Beginners",
-      "repo_stars": 14,
-      "repo_forks": 8,
+      "repository": "ctoic/Ctoic",
+      "repository_name": "Ctoic",
+      "repository_url": "https://github.com/ctoic/Ctoic",
+      "repo_stars": 3,
+      "repo_forks": 4,
       "repo_language": "Python",
-      "repo_description": "This repository contain all the basic concepts of Python.",
+      "repo_description": "About Najam Ali Abbas ",
       "repositories_contributed": [
+        "ctoic/Ctoic",
         "ctoic/Python-For-Beginners",
         "ctoic/CISCO-packettracer",
-        "ctoic/Ctoic",
         "ctoic/Hostel-Management-System-Using-Flask",
         "ctoic/Python-For-Physics",
         "ctoic/agentica",
@@ -1530,7 +1530,7 @@
       "username": "actions-user",
       "avatar_url": "https://avatars.githubusercontent.com/u/65916846?v=4",
       "profile_url": "https://github.com/actions-user",
-      "contributions": 761,
+      "contributions": 762,
       "repository": "ctoic/Ctoic",
       "repository_name": "Ctoic",
       "repository_url": "https://github.com/ctoic/Ctoic",
@@ -2205,7 +2205,7 @@
       "repository_name": "Lisbook",
       "repository_url": "https://github.com/ctoic/Lisbook",
       "repo_stars": 18,
-      "repo_forks": 53,
+      "repo_forks": 52,
       "repo_language": "HTML",
       "repo_description": "Collection of your faviorite books. ",
       "repositories_contributed": [
@@ -2343,7 +2343,7 @@
       "repository_name": "Lisbook",
       "repository_url": "https://github.com/ctoic/Lisbook",
       "repo_stars": 18,
-      "repo_forks": 53,
+      "repo_forks": 52,
       "repo_language": "HTML",
       "repo_description": "Collection of your faviorite books. ",
       "repositories_contributed": [
@@ -2447,7 +2447,7 @@
       "repository_name": "Lisbook",
       "repository_url": "https://github.com/ctoic/Lisbook",
       "repo_stars": 18,
-      "repo_forks": 53,
+      "repo_forks": 52,
       "repo_language": "HTML",
       "repo_description": "Collection of your faviorite books. ",
       "repositories_contributed": [
@@ -2602,7 +2602,7 @@
       "repository_name": "Lisbook",
       "repository_url": "https://github.com/ctoic/Lisbook",
       "repo_stars": 18,
-      "repo_forks": 53,
+      "repo_forks": 52,
       "repo_language": "HTML",
       "repo_description": "Collection of your faviorite books. ",
       "repositories_contributed": [
@@ -2776,7 +2776,7 @@
       "repository_name": "Lisbook",
       "repository_url": "https://github.com/ctoic/Lisbook",
       "repo_stars": 18,
-      "repo_forks": 53,
+      "repo_forks": 52,
       "repo_language": "HTML",
       "repo_description": "Collection of your faviorite books. ",
       "repositories_contributed": [
@@ -2950,7 +2950,7 @@
       "repository_name": "Lisbook",
       "repository_url": "https://github.com/ctoic/Lisbook",
       "repo_stars": 18,
-      "repo_forks": 53,
+      "repo_forks": 52,
       "repo_language": "HTML",
       "repo_description": "Collection of your faviorite books. ",
       "repositories_contributed": [
@@ -3069,7 +3069,7 @@
       "repository_name": "Lisbook",
       "repository_url": "https://github.com/ctoic/Lisbook",
       "repo_stars": 18,
-      "repo_forks": 53,
+      "repo_forks": 52,
       "repo_language": "HTML",
       "repo_description": "Collection of your faviorite books. ",
       "repositories_contributed": [
@@ -3086,7 +3086,7 @@
       "repository_name": "Lisbook",
       "repository_url": "https://github.com/ctoic/Lisbook",
       "repo_stars": 18,
-      "repo_forks": 53,
+      "repo_forks": 52,
       "repo_language": "HTML",
       "repo_description": "Collection of your faviorite books. ",
       "repositories_contributed": [
@@ -3224,7 +3224,7 @@
       "repository_name": "Lisbook",
       "repository_url": "https://github.com/ctoic/Lisbook",
       "repo_stars": 18,
-      "repo_forks": 53,
+      "repo_forks": 52,
       "repo_language": "HTML",
       "repo_description": "Collection of your faviorite books. ",
       "repositories_contributed": [
@@ -3241,7 +3241,7 @@
       "repository_name": "Lisbook",
       "repository_url": "https://github.com/ctoic/Lisbook",
       "repo_stars": 18,
-      "repo_forks": 53,
+      "repo_forks": 52,
       "repo_language": "HTML",
       "repo_description": "Collection of your faviorite books. ",
       "repositories_contributed": [
@@ -4063,7 +4063,7 @@
       "repository_name": "Lisbook",
       "repository_url": "https://github.com/ctoic/Lisbook",
       "repo_stars": 18,
-      "repo_forks": 53,
+      "repo_forks": 52,
       "repo_language": "HTML",
       "repo_description": "Collection of your faviorite books. ",
       "repositories_contributed": [
@@ -4080,7 +4080,7 @@
       "repository_name": "Lisbook",
       "repository_url": "https://github.com/ctoic/Lisbook",
       "repo_stars": 18,
-      "repo_forks": 53,
+      "repo_forks": 52,
       "repo_language": "HTML",
       "repo_description": "Collection of your faviorite books. ",
       "repositories_contributed": [
@@ -4097,7 +4097,7 @@
       "repository_name": "Lisbook",
       "repository_url": "https://github.com/ctoic/Lisbook",
       "repo_stars": 18,
-      "repo_forks": 53,
+      "repo_forks": 52,
       "repo_language": "HTML",
       "repo_description": "Collection of your faviorite books. ",
       "repositories_contributed": [
@@ -4114,7 +4114,7 @@
       "repository_name": "Lisbook",
       "repository_url": "https://github.com/ctoic/Lisbook",
       "repo_stars": 18,
-      "repo_forks": 53,
+      "repo_forks": 52,
       "repo_language": "HTML",
       "repo_description": "Collection of your faviorite books. ",
       "repositories_contributed": [
@@ -5134,7 +5134,7 @@
       "repository_name": "Lisbook",
       "repository_url": "https://github.com/ctoic/Lisbook",
       "repo_stars": 18,
-      "repo_forks": 53,
+      "repo_forks": 52,
       "repo_language": "HTML",
       "repo_description": "Collection of your faviorite books. ",
       "repositories_contributed": [
@@ -5151,7 +5151,7 @@
       "repository_name": "Lisbook",
       "repository_url": "https://github.com/ctoic/Lisbook",
       "repo_stars": 18,
-      "repo_forks": 53,
+      "repo_forks": 52,
       "repo_language": "HTML",
       "repo_description": "Collection of your faviorite books. ",
       "repositories_contributed": [
@@ -5168,7 +5168,7 @@
       "repository_name": "Lisbook",
       "repository_url": "https://github.com/ctoic/Lisbook",
       "repo_stars": 18,
-      "repo_forks": 53,
+      "repo_forks": 52,
       "repo_language": "HTML",
       "repo_description": "Collection of your faviorite books. ",
       "repositories_contributed": [
@@ -5185,7 +5185,7 @@
       "repository_name": "Lisbook",
       "repository_url": "https://github.com/ctoic/Lisbook",
       "repo_stars": 18,
-      "repo_forks": 53,
+      "repo_forks": 52,
       "repo_language": "HTML",
       "repo_description": "Collection of your faviorite books. ",
       "repositories_contributed": [
@@ -5202,7 +5202,7 @@
       "repository_name": "Lisbook",
       "repository_url": "https://github.com/ctoic/Lisbook",
       "repo_stars": 18,
-      "repo_forks": 53,
+      "repo_forks": 52,
       "repo_language": "HTML",
       "repo_description": "Collection of your faviorite books. ",
       "repositories_contributed": [
@@ -5219,7 +5219,7 @@
       "repository_name": "Lisbook",
       "repository_url": "https://github.com/ctoic/Lisbook",
       "repo_stars": 18,
-      "repo_forks": 53,
+      "repo_forks": 52,
       "repo_language": "HTML",
       "repo_description": "Collection of your faviorite books. ",
       "repositories_contributed": [
@@ -5236,7 +5236,7 @@
       "repository_name": "Lisbook",
       "repository_url": "https://github.com/ctoic/Lisbook",
       "repo_stars": 18,
-      "repo_forks": 53,
+      "repo_forks": 52,
       "repo_language": "HTML",
       "repo_description": "Collection of your faviorite books. ",
       "repositories_contributed": [
@@ -5253,7 +5253,7 @@
       "repository_name": "Lisbook",
       "repository_url": "https://github.com/ctoic/Lisbook",
       "repo_stars": 18,
-      "repo_forks": 53,
+      "repo_forks": 52,
       "repo_language": "HTML",
       "repo_description": "Collection of your faviorite books. ",
       "repositories_contributed": [
@@ -6319,7 +6319,7 @@
   "collaboration_stats": {
     "total_projects": 141,
     "projects_with_collaborators": 136,
-    "total_contributions": 27043,
+    "total_contributions": 27044,
     "unique_collaborators": 283
   }
 }
