@@ -1,9 +1,19 @@
 {
-  "last_updated": "2025-08-17T01:12:39.577775+00:00",
+  "last_updated": "2025-08-24T01:10:06.849322+00:00",
   "total_contributors": 283,
   "total_repositories": 141,
   "repositories_with_contributors": 136,
   "repositories": [
+    {
+      "name": "Lisbook",
+      "full_name": "Ctoic/Lisbook",
+      "url": "https://github.com/Ctoic/Lisbook",
+      "description": "Collection of your faviorite books. ",
+      "language": "HTML",
+      "stars": 17,
+      "forks": 52,
+      "contributor_count": 25
+    },
     {
       "name": "Ctoic",
       "full_name": "Ctoic/Ctoic",
@@ -93,16 +103,6 @@
       "stars": 0,
       "forks": 0,
       "contributor_count": 2
-    },
-    {
-      "name": "Lisbook",
-      "full_name": "Ctoic/Lisbook",
-      "url": "https://github.com/Ctoic/Lisbook",
-      "description": "Collection of your faviorite books. ",
-      "language": "HTML",
-      "stars": 18,
-      "forks": 52,
-      "contributor_count": 25
     },
     {
       "name": "Financial-Tracking-System-Using-Flask-and-NextJS",
@@ -1405,14 +1405,15 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/90936436?v=4",
       "profile_url": "https://github.com/Ctoic",
       "contributions": 1284,
-      "repository": "ctoic/Ctoic",
-      "repository_name": "Ctoic",
-      "repository_url": "https://github.com/ctoic/Ctoic",
-      "repo_stars": 3,
-      "repo_forks": 4,
-      "repo_language": "Python",
-      "repo_description": "About Najam Ali Abbas ",
+      "repository": "ctoic/Lisbook",
+      "repository_name": "Lisbook",
+      "repository_url": "https://github.com/ctoic/Lisbook",
+      "repo_stars": 17,
+      "repo_forks": 52,
+      "repo_language": "HTML",
+      "repo_description": "Collection of your faviorite books. ",
       "repositories_contributed": [
+        "ctoic/Lisbook",
         "ctoic/Ctoic",
         "ctoic/Python-For-Beginners",
         "ctoic/CISCO-packettracer",
@@ -1421,7 +1422,6 @@
         "ctoic/agentica",
         "ctoic/CalHub",
         "ctoic/CampusHive-Frontend",
-        "ctoic/Lisbook",
         "ctoic/Financial-Tracking-System-Using-Flask-and-NextJS",
         "ctoic/Intermediate-Python",
         "ctoic/Hostel-management-System-Project",
@@ -1530,7 +1530,7 @@
       "username": "actions-user",
       "avatar_url": "https://avatars.githubusercontent.com/u/65916846?v=4",
       "profile_url": "https://github.com/actions-user",
-      "contributions": 762,
+      "contributions": 763,
       "repository": "ctoic/Ctoic",
       "repository_name": "Ctoic",
       "repository_url": "https://github.com/ctoic/Ctoic",
@@ -2204,7 +2204,7 @@
       "repository": "ctoic/Lisbook",
       "repository_name": "Lisbook",
       "repository_url": "https://github.com/ctoic/Lisbook",
-      "repo_stars": 18,
+      "repo_stars": 17,
       "repo_forks": 52,
       "repo_language": "HTML",
       "repo_description": "Collection of your faviorite books. ",
@@ -2342,7 +2342,7 @@
       "repository": "ctoic/Lisbook",
       "repository_name": "Lisbook",
       "repository_url": "https://github.com/ctoic/Lisbook",
-      "repo_stars": 18,
+      "repo_stars": 17,
       "repo_forks": 52,
       "repo_language": "HTML",
       "repo_description": "Collection of your faviorite books. ",
@@ -2446,7 +2446,7 @@
       "repository": "ctoic/Lisbook",
       "repository_name": "Lisbook",
       "repository_url": "https://github.com/ctoic/Lisbook",
-      "repo_stars": 18,
+      "repo_stars": 17,
       "repo_forks": 52,
       "repo_language": "HTML",
       "repo_description": "Collection of your faviorite books. ",
@@ -2575,6 +2575,23 @@
       "total_repos_contributed": 1
     },
     {
+      "username": "AkierRaee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/151558456?v=4",
+      "profile_url": "https://github.com/AkierRaee",
+      "contributions": 13,
+      "repository": "ctoic/Lisbook",
+      "repository_name": "Lisbook",
+      "repository_url": "https://github.com/ctoic/Lisbook",
+      "repo_stars": 17,
+      "repo_forks": 52,
+      "repo_language": "HTML",
+      "repo_description": "Collection of your faviorite books. ",
+      "repositories_contributed": [
+        "ctoic/Lisbook"
+      ],
+      "total_repos_contributed": 1
+    },
+    {
       "username": "deepsource-autofix[bot]",
       "avatar_url": "https://avatars.githubusercontent.com/in/57168?v=4",
       "profile_url": "https://github.com/apps/deepsource-autofix",
@@ -2592,23 +2609,6 @@
         "ctoic/Algorithm-Visualizer-Using-pygame"
       ],
       "total_repos_contributed": 3
-    },
-    {
-      "username": "AkierRaee",
-      "avatar_url": "https://avatars.githubusercontent.com/u/151558456?v=4",
-      "profile_url": "https://github.com/AkierRaee",
-      "contributions": 13,
-      "repository": "ctoic/Lisbook",
-      "repository_name": "Lisbook",
-      "repository_url": "https://github.com/ctoic/Lisbook",
-      "repo_stars": 18,
-      "repo_forks": 52,
-      "repo_language": "HTML",
-      "repo_description": "Collection of your faviorite books. ",
-      "repositories_contributed": [
-        "ctoic/Lisbook"
-      ],
-      "total_repos_contributed": 1
     },
     {
       "username": "C-o-m-o-n",
@@ -2775,7 +2775,7 @@
       "repository": "ctoic/Lisbook",
       "repository_name": "Lisbook",
       "repository_url": "https://github.com/ctoic/Lisbook",
-      "repo_stars": 18,
+      "repo_stars": 17,
       "repo_forks": 52,
       "repo_language": "HTML",
       "repo_description": "Collection of your faviorite books. ",
@@ -2889,21 +2889,38 @@
       "total_repos_contributed": 1
     },
     {
+      "username": "AdityaJ2305",
+      "avatar_url": "https://avatars.githubusercontent.com/u/148325158?v=4",
+      "profile_url": "https://github.com/AdityaJ2305",
+      "contributions": 6,
+      "repository": "ctoic/Lisbook",
+      "repository_name": "Lisbook",
+      "repository_url": "https://github.com/ctoic/Lisbook",
+      "repo_stars": 17,
+      "repo_forks": 52,
+      "repo_language": "HTML",
+      "repo_description": "Collection of your faviorite books. ",
+      "repositories_contributed": [
+        "ctoic/Lisbook"
+      ],
+      "total_repos_contributed": 1
+    },
+    {
       "username": "aliabbasnagari",
       "avatar_url": "https://avatars.githubusercontent.com/u/70366131?v=4",
       "profile_url": "https://github.com/aliabbasnagari",
       "contributions": 6,
-      "repository": "ctoic/Hostel-Management-System-Using-Flask",
-      "repository_name": "Hostel-Management-System-Using-Flask",
-      "repository_url": "https://github.com/ctoic/Hostel-Management-System-Using-Flask",
-      "repo_stars": 4,
-      "repo_forks": 10,
+      "repository": "ctoic/Lisbook",
+      "repository_name": "Lisbook",
+      "repository_url": "https://github.com/ctoic/Lisbook",
+      "repo_stars": 17,
+      "repo_forks": 52,
       "repo_language": "HTML",
-      "repo_description": "Application to streamline your hostel buisness. ",
+      "repo_description": "Collection of your faviorite books. ",
       "repositories_contributed": [
+        "ctoic/Lisbook",
         "ctoic/Hostel-Management-System-Using-Flask",
-        "ctoic/CalHub",
-        "ctoic/Lisbook"
+        "ctoic/CalHub"
       ],
       "total_repos_contributed": 3
     },
@@ -2938,23 +2955,6 @@
       "repo_description": "The \"Calculator\" repository on GitHub is a comprehensive codebase for building a functional calculator using HTML, CSS, and JavaScript. The repository is open-source, allowing developers to freely contribute and use the code.",
       "repositories_contributed": [
         "ctoic/CalHub"
-      ],
-      "total_repos_contributed": 1
-    },
-    {
-      "username": "AdityaJ2305",
-      "avatar_url": "https://avatars.githubusercontent.com/u/148325158?v=4",
-      "profile_url": "https://github.com/AdityaJ2305",
-      "contributions": 6,
-      "repository": "ctoic/Lisbook",
-      "repository_name": "Lisbook",
-      "repository_url": "https://github.com/ctoic/Lisbook",
-      "repo_stars": 18,
-      "repo_forks": 52,
-      "repo_language": "HTML",
-      "repo_description": "Collection of your faviorite books. ",
-      "repositories_contributed": [
-        "ctoic/Lisbook"
       ],
       "total_repos_contributed": 1
     },
@@ -3068,7 +3068,7 @@
       "repository": "ctoic/Lisbook",
       "repository_name": "Lisbook",
       "repository_url": "https://github.com/ctoic/Lisbook",
-      "repo_stars": 18,
+      "repo_stars": 17,
       "repo_forks": 52,
       "repo_language": "HTML",
       "repo_description": "Collection of your faviorite books. ",
@@ -3085,7 +3085,7 @@
       "repository": "ctoic/Lisbook",
       "repository_name": "Lisbook",
       "repository_url": "https://github.com/ctoic/Lisbook",
-      "repo_stars": 18,
+      "repo_stars": 17,
       "repo_forks": 52,
       "repo_language": "HTML",
       "repo_description": "Collection of your faviorite books. ",
@@ -3146,20 +3146,54 @@
       "total_repos_contributed": 1
     },
     {
+      "username": "amankumarconnect",
+      "avatar_url": "https://avatars.githubusercontent.com/u/150781237?v=4",
+      "profile_url": "https://github.com/amankumarconnect",
+      "contributions": 4,
+      "repository": "ctoic/Lisbook",
+      "repository_name": "Lisbook",
+      "repository_url": "https://github.com/ctoic/Lisbook",
+      "repo_stars": 17,
+      "repo_forks": 52,
+      "repo_language": "HTML",
+      "repo_description": "Collection of your faviorite books. ",
+      "repositories_contributed": [
+        "ctoic/Lisbook"
+      ],
+      "total_repos_contributed": 1
+    },
+    {
+      "username": "VaradJadhav",
+      "avatar_url": "https://avatars.githubusercontent.com/u/96735054?v=4",
+      "profile_url": "https://github.com/VaradJadhav",
+      "contributions": 4,
+      "repository": "ctoic/Lisbook",
+      "repository_name": "Lisbook",
+      "repository_url": "https://github.com/ctoic/Lisbook",
+      "repo_stars": 17,
+      "repo_forks": 52,
+      "repo_language": "HTML",
+      "repo_description": "Collection of your faviorite books. ",
+      "repositories_contributed": [
+        "ctoic/Lisbook"
+      ],
+      "total_repos_contributed": 1
+    },
+    {
       "username": "manoj9896",
       "avatar_url": "https://avatars.githubusercontent.com/u/51627080?v=4",
       "profile_url": "https://github.com/manoj9896",
       "contributions": 4,
-      "repository": "ctoic/Hostel-Management-System-Using-Flask",
-      "repository_name": "Hostel-Management-System-Using-Flask",
-      "repository_url": "https://github.com/ctoic/Hostel-Management-System-Using-Flask",
-      "repo_stars": 4,
-      "repo_forks": 10,
+      "repository": "ctoic/Lisbook",
+      "repository_name": "Lisbook",
+      "repository_url": "https://github.com/ctoic/Lisbook",
+      "repo_stars": 17,
+      "repo_forks": 52,
       "repo_language": "HTML",
-      "repo_description": "Application to streamline your hostel buisness. ",
+      "repo_description": "Collection of your faviorite books. ",
       "repositories_contributed": [
-        "ctoic/Hostel-Management-System-Using-Flask",
-        "ctoic/Lisbook"
+        "ctoic/Lisbook",
+        "ctoic/Hostel-Management-System-Using-Flask"
       ],
       "total_repos_contributed": 2
     },
@@ -3214,40 +3248,6 @@
         "ctoic/Task-Manager"
       ],
       "total_repos_contributed": 2
-    },
-    {
-      "username": "amankumarconnect",
-      "avatar_url": "https://avatars.githubusercontent.com/u/150781237?v=4",
-      "profile_url": "https://github.com/amankumarconnect",
-      "contributions": 4,
-      "repository": "ctoic/Lisbook",
-      "repository_name": "Lisbook",
-      "repository_url": "https://github.com/ctoic/Lisbook",
-      "repo_stars": 18,
-      "repo_forks": 52,
-      "repo_language": "HTML",
-      "repo_description": "Collection of your faviorite books. ",
-      "repositories_contributed": [
-        "ctoic/Lisbook"
-      ],
-      "total_repos_contributed": 1
-    },
-    {
-      "username": "VaradJadhav",
-      "avatar_url": "https://avatars.githubusercontent.com/u/96735054?v=4",
-      "profile_url": "https://github.com/VaradJadhav",
-      "contributions": 4,
-      "repository": "ctoic/Lisbook",
-      "repository_name": "Lisbook",
-      "repository_url": "https://github.com/ctoic/Lisbook",
-      "repo_stars": 18,
-      "repo_forks": 52,
-      "repo_language": "HTML",
-      "repo_description": "Collection of your faviorite books. ",
-      "repositories_contributed": [
-        "ctoic/Lisbook"
-      ],
-      "total_repos_contributed": 1
     },
     {
       "username": "ShaliniAthukorala01",
@@ -3986,6 +3986,74 @@
       "total_repos_contributed": 1
     },
     {
+      "username": "sujalcharati",
+      "avatar_url": "https://avatars.githubusercontent.com/u/146851304?v=4",
+      "profile_url": "https://github.com/sujalcharati",
+      "contributions": 2,
+      "repository": "ctoic/Lisbook",
+      "repository_name": "Lisbook",
+      "repository_url": "https://github.com/ctoic/Lisbook",
+      "repo_stars": 17,
+      "repo_forks": 52,
+      "repo_language": "HTML",
+      "repo_description": "Collection of your faviorite books. ",
+      "repositories_contributed": [
+        "ctoic/Lisbook"
+      ],
+      "total_repos_contributed": 1
+    },
+    {
+      "username": "khandelwal20sid",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58730831?v=4",
+      "profile_url": "https://github.com/khandelwal20sid",
+      "contributions": 2,
+      "repository": "ctoic/Lisbook",
+      "repository_name": "Lisbook",
+      "repository_url": "https://github.com/ctoic/Lisbook",
+      "repo_stars": 17,
+      "repo_forks": 52,
+      "repo_language": "HTML",
+      "repo_description": "Collection of your faviorite books. ",
+      "repositories_contributed": [
+        "ctoic/Lisbook"
+      ],
+      "total_repos_contributed": 1
+    },
+    {
+      "username": "Tomkndn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/105445488?v=4",
+      "profile_url": "https://github.com/Tomkndn",
+      "contributions": 2,
+      "repository": "ctoic/Lisbook",
+      "repository_name": "Lisbook",
+      "repository_url": "https://github.com/ctoic/Lisbook",
+      "repo_stars": 17,
+      "repo_forks": 52,
+      "repo_language": "HTML",
+      "repo_description": "Collection of your faviorite books. ",
+      "repositories_contributed": [
+        "ctoic/Lisbook"
+      ],
+      "total_repos_contributed": 1
+    },
+    {
+      "username": "IngaleChinmay04",
+      "avatar_url": "https://avatars.githubusercontent.com/u/143017442?v=4",
+      "profile_url": "https://github.com/IngaleChinmay04",
+      "contributions": 2,
+      "repository": "ctoic/Lisbook",
+      "repository_name": "Lisbook",
+      "repository_url": "https://github.com/ctoic/Lisbook",
+      "repo_stars": 17,
+      "repo_forks": 52,
+      "repo_language": "HTML",
+      "repo_description": "Collection of your faviorite books. ",
+      "repositories_contributed": [
+        "ctoic/Lisbook"
+      ],
+      "total_repos_contributed": 1
+    },
+    {
       "username": "r6654kumar",
       "avatar_url": "https://avatars.githubusercontent.com/u/91774868?v=4",
       "profile_url": "https://github.com/r6654kumar",
@@ -4053,74 +4121,6 @@
         "ctoic/Bookstore-Using-Html-Css"
       ],
       "total_repos_contributed": 2
-    },
-    {
-      "username": "sujalcharati",
-      "avatar_url": "https://avatars.githubusercontent.com/u/146851304?v=4",
-      "profile_url": "https://github.com/sujalcharati",
-      "contributions": 2,
-      "repository": "ctoic/Lisbook",
-      "repository_name": "Lisbook",
-      "repository_url": "https://github.com/ctoic/Lisbook",
-      "repo_stars": 18,
-      "repo_forks": 52,
-      "repo_language": "HTML",
-      "repo_description": "Collection of your faviorite books. ",
-      "repositories_contributed": [
-        "ctoic/Lisbook"
-      ],
-      "total_repos_contributed": 1
-    },
-    {
-      "username": "khandelwal20sid",
-      "avatar_url": "https://avatars.githubusercontent.com/u/58730831?v=4",
-      "profile_url": "https://github.com/khandelwal20sid",
-      "contributions": 2,
-      "repository": "ctoic/Lisbook",
-      "repository_name": "Lisbook",
-      "repository_url": "https://github.com/ctoic/Lisbook",
-      "repo_stars": 18,
-      "repo_forks": 52,
-      "repo_language": "HTML",
-      "repo_description": "Collection of your faviorite books. ",
-      "repositories_contributed": [
-        "ctoic/Lisbook"
-      ],
-      "total_repos_contributed": 1
-    },
-    {
-      "username": "Tomkndn",
-      "avatar_url": "https://avatars.githubusercontent.com/u/105445488?v=4",
-      "profile_url": "https://github.com/Tomkndn",
-      "contributions": 2,
-      "repository": "ctoic/Lisbook",
-      "repository_name": "Lisbook",
-      "repository_url": "https://github.com/ctoic/Lisbook",
-      "repo_stars": 18,
-      "repo_forks": 52,
-      "repo_language": "HTML",
-      "repo_description": "Collection of your faviorite books. ",
-      "repositories_contributed": [
-        "ctoic/Lisbook"
-      ],
-      "total_repos_contributed": 1
-    },
-    {
-      "username": "IngaleChinmay04",
-      "avatar_url": "https://avatars.githubusercontent.com/u/143017442?v=4",
-      "profile_url": "https://github.com/IngaleChinmay04",
-      "contributions": 2,
-      "repository": "ctoic/Lisbook",
-      "repository_name": "Lisbook",
-      "repository_url": "https://github.com/ctoic/Lisbook",
-      "repo_stars": 18,
-      "repo_forks": 52,
-      "repo_language": "HTML",
-      "repo_description": "Collection of your faviorite books. ",
-      "repositories_contributed": [
-        "ctoic/Lisbook"
-      ],
-      "total_repos_contributed": 1
     },
     {
       "username": "Goketech",
@@ -4871,6 +4871,142 @@
       "total_repos_contributed": 1
     },
     {
+      "username": "username-amarjit",
+      "avatar_url": "https://avatars.githubusercontent.com/u/121117087?v=4",
+      "profile_url": "https://github.com/username-amarjit",
+      "contributions": 1,
+      "repository": "ctoic/Lisbook",
+      "repository_name": "Lisbook",
+      "repository_url": "https://github.com/ctoic/Lisbook",
+      "repo_stars": 17,
+      "repo_forks": 52,
+      "repo_language": "HTML",
+      "repo_description": "Collection of your faviorite books. ",
+      "repositories_contributed": [
+        "ctoic/Lisbook"
+      ],
+      "total_repos_contributed": 1
+    },
+    {
+      "username": "JayShukla8",
+      "avatar_url": "https://avatars.githubusercontent.com/u/75677270?v=4",
+      "profile_url": "https://github.com/JayShukla8",
+      "contributions": 1,
+      "repository": "ctoic/Lisbook",
+      "repository_name": "Lisbook",
+      "repository_url": "https://github.com/ctoic/Lisbook",
+      "repo_stars": 17,
+      "repo_forks": 52,
+      "repo_language": "HTML",
+      "repo_description": "Collection of your faviorite books. ",
+      "repositories_contributed": [
+        "ctoic/Lisbook"
+      ],
+      "total_repos_contributed": 1
+    },
+    {
+      "username": "MohitKambli",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31406633?v=4",
+      "profile_url": "https://github.com/MohitKambli",
+      "contributions": 1,
+      "repository": "ctoic/Lisbook",
+      "repository_name": "Lisbook",
+      "repository_url": "https://github.com/ctoic/Lisbook",
+      "repo_stars": 17,
+      "repo_forks": 52,
+      "repo_language": "HTML",
+      "repo_description": "Collection of your faviorite books. ",
+      "repositories_contributed": [
+        "ctoic/Lisbook"
+      ],
+      "total_repos_contributed": 1
+    },
+    {
+      "username": "PModhe09",
+      "avatar_url": "https://avatars.githubusercontent.com/u/119349738?v=4",
+      "profile_url": "https://github.com/PModhe09",
+      "contributions": 1,
+      "repository": "ctoic/Lisbook",
+      "repository_name": "Lisbook",
+      "repository_url": "https://github.com/ctoic/Lisbook",
+      "repo_stars": 17,
+      "repo_forks": 52,
+      "repo_language": "HTML",
+      "repo_description": "Collection of your faviorite books. ",
+      "repositories_contributed": [
+        "ctoic/Lisbook"
+      ],
+      "total_repos_contributed": 1
+    },
+    {
+      "username": "Saiharitha3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/167031893?v=4",
+      "profile_url": "https://github.com/Saiharitha3",
+      "contributions": 1,
+      "repository": "ctoic/Lisbook",
+      "repository_name": "Lisbook",
+      "repository_url": "https://github.com/ctoic/Lisbook",
+      "repo_stars": 17,
+      "repo_forks": 52,
+      "repo_language": "HTML",
+      "repo_description": "Collection of your faviorite books. ",
+      "repositories_contributed": [
+        "ctoic/Lisbook"
+      ],
+      "total_repos_contributed": 1
+    },
+    {
+      "username": "Vedantjn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76029713?v=4",
+      "profile_url": "https://github.com/Vedantjn",
+      "contributions": 1,
+      "repository": "ctoic/Lisbook",
+      "repository_name": "Lisbook",
+      "repository_url": "https://github.com/ctoic/Lisbook",
+      "repo_stars": 17,
+      "repo_forks": 52,
+      "repo_language": "HTML",
+      "repo_description": "Collection of your faviorite books. ",
+      "repositories_contributed": [
+        "ctoic/Lisbook"
+      ],
+      "total_repos_contributed": 1
+    },
+    {
+      "username": "harshitkumargupta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/149725714?v=4",
+      "profile_url": "https://github.com/harshitkumargupta",
+      "contributions": 1,
+      "repository": "ctoic/Lisbook",
+      "repository_name": "Lisbook",
+      "repository_url": "https://github.com/ctoic/Lisbook",
+      "repo_stars": 17,
+      "repo_forks": 52,
+      "repo_language": "HTML",
+      "repo_description": "Collection of your faviorite books. ",
+      "repositories_contributed": [
+        "ctoic/Lisbook"
+      ],
+      "total_repos_contributed": 1
+    },
+    {
+      "username": "vatsaljain-hub",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60287913?v=4",
+      "profile_url": "https://github.com/vatsaljain-hub",
+      "contributions": 1,
+      "repository": "ctoic/Lisbook",
+      "repository_name": "Lisbook",
+      "repository_url": "https://github.com/ctoic/Lisbook",
+      "repo_stars": 17,
+      "repo_forks": 52,
+      "repo_language": "HTML",
+      "repo_description": "Collection of your faviorite books. ",
+      "repositories_contributed": [
+        "ctoic/Lisbook"
+      ],
+      "total_repos_contributed": 1
+    },
+    {
       "username": "Jaid101",
       "avatar_url": "https://avatars.githubusercontent.com/u/183415564?v=4",
       "profile_url": "https://github.com/Jaid101",
@@ -5122,142 +5258,6 @@
       "repo_description": "An AI-powered storytelling app that scrapes trending topics from platforms like YouTube, Google News, and Google Trends, then generates engaging stories in various themes (comedy, tragedy, sarcasm, etc.) using a local language model. Built with Gradio for an interactive and responsive UI.",
       "repositories_contributed": [
         "ctoic/trend2story"
-      ],
-      "total_repos_contributed": 1
-    },
-    {
-      "username": "username-amarjit",
-      "avatar_url": "https://avatars.githubusercontent.com/u/121117087?v=4",
-      "profile_url": "https://github.com/username-amarjit",
-      "contributions": 1,
-      "repository": "ctoic/Lisbook",
-      "repository_name": "Lisbook",
-      "repository_url": "https://github.com/ctoic/Lisbook",
-      "repo_stars": 18,
-      "repo_forks": 52,
-      "repo_language": "HTML",
-      "repo_description": "Collection of your faviorite books. ",
-      "repositories_contributed": [
-        "ctoic/Lisbook"
-      ],
-      "total_repos_contributed": 1
-    },
-    {
-      "username": "JayShukla8",
-      "avatar_url": "https://avatars.githubusercontent.com/u/75677270?v=4",
-      "profile_url": "https://github.com/JayShukla8",
-      "contributions": 1,
-      "repository": "ctoic/Lisbook",
-      "repository_name": "Lisbook",
-      "repository_url": "https://github.com/ctoic/Lisbook",
-      "repo_stars": 18,
-      "repo_forks": 52,
-      "repo_language": "HTML",
-      "repo_description": "Collection of your faviorite books. ",
-      "repositories_contributed": [
-        "ctoic/Lisbook"
-      ],
-      "total_repos_contributed": 1
-    },
-    {
-      "username": "MohitKambli",
-      "avatar_url": "https://avatars.githubusercontent.com/u/31406633?v=4",
-      "profile_url": "https://github.com/MohitKambli",
-      "contributions": 1,
-      "repository": "ctoic/Lisbook",
-      "repository_name": "Lisbook",
-      "repository_url": "https://github.com/ctoic/Lisbook",
-      "repo_stars": 18,
-      "repo_forks": 52,
-      "repo_language": "HTML",
-      "repo_description": "Collection of your faviorite books. ",
-      "repositories_contributed": [
-        "ctoic/Lisbook"
-      ],
-      "total_repos_contributed": 1
-    },
-    {
-      "username": "PModhe09",
-      "avatar_url": "https://avatars.githubusercontent.com/u/119349738?v=4",
-      "profile_url": "https://github.com/PModhe09",
-      "contributions": 1,
-      "repository": "ctoic/Lisbook",
-      "repository_name": "Lisbook",
-      "repository_url": "https://github.com/ctoic/Lisbook",
-      "repo_stars": 18,
-      "repo_forks": 52,
-      "repo_language": "HTML",
-      "repo_description": "Collection of your faviorite books. ",
-      "repositories_contributed": [
-        "ctoic/Lisbook"
-      ],
-      "total_repos_contributed": 1
-    },
-    {
-      "username": "Saiharitha3",
-      "avatar_url": "https://avatars.githubusercontent.com/u/167031893?v=4",
-      "profile_url": "https://github.com/Saiharitha3",
-      "contributions": 1,
-      "repository": "ctoic/Lisbook",
-      "repository_name": "Lisbook",
-      "repository_url": "https://github.com/ctoic/Lisbook",
-      "repo_stars": 18,
-      "repo_forks": 52,
-      "repo_language": "HTML",
-      "repo_description": "Collection of your faviorite books. ",
-      "repositories_contributed": [
-        "ctoic/Lisbook"
-      ],
-      "total_repos_contributed": 1
-    },
-    {
-      "username": "Vedantjn",
-      "avatar_url": "https://avatars.githubusercontent.com/u/76029713?v=4",
-      "profile_url": "https://github.com/Vedantjn",
-      "contributions": 1,
-      "repository": "ctoic/Lisbook",
-      "repository_name": "Lisbook",
-      "repository_url": "https://github.com/ctoic/Lisbook",
-      "repo_stars": 18,
-      "repo_forks": 52,
-      "repo_language": "HTML",
-      "repo_description": "Collection of your faviorite books. ",
-      "repositories_contributed": [
-        "ctoic/Lisbook"
-      ],
-      "total_repos_contributed": 1
-    },
-    {
-      "username": "harshitkumargupta",
-      "avatar_url": "https://avatars.githubusercontent.com/u/149725714?v=4",
-      "profile_url": "https://github.com/harshitkumargupta",
-      "contributions": 1,
-      "repository": "ctoic/Lisbook",
-      "repository_name": "Lisbook",
-      "repository_url": "https://github.com/ctoic/Lisbook",
-      "repo_stars": 18,
-      "repo_forks": 52,
-      "repo_language": "HTML",
-      "repo_description": "Collection of your faviorite books. ",
-      "repositories_contributed": [
-        "ctoic/Lisbook"
-      ],
-      "total_repos_contributed": 1
-    },
-    {
-      "username": "vatsaljain-hub",
-      "avatar_url": "https://avatars.githubusercontent.com/u/60287913?v=4",
-      "profile_url": "https://github.com/vatsaljain-hub",
-      "contributions": 1,
-      "repository": "ctoic/Lisbook",
-      "repository_name": "Lisbook",
-      "repository_url": "https://github.com/ctoic/Lisbook",
-      "repo_stars": 18,
-      "repo_forks": 52,
-      "repo_language": "HTML",
-      "repo_description": "Collection of your faviorite books. ",
-      "repositories_contributed": [
-        "ctoic/Lisbook"
       ],
       "total_repos_contributed": 1
     },
@@ -6319,7 +6319,7 @@
   "collaboration_stats": {
     "total_projects": 141,
     "projects_with_collaborators": 136,
-    "total_contributions": 27044,
+    "total_contributions": 27045,
     "unique_collaborators": 283
   }
 }
