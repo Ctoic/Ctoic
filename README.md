@@ -4,7 +4,7 @@
 
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=735&lines=Hello+Geeks!I'm+Najam+Ali+Abbas;Builder+%7C+Managing+People+to+Build;Soon+will+Manage+Agents;The+Journey+is+the+Reward;Keep+Building,+Keep+Learning!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=735&lines=Hello+Geeks!I'm+Najam+Ali+Abbas;Builder+Managing+People;Soon+will+Manage+Agents;The+Journey+is+the+Reward;Keep+Building,+Keep+Learning!)](https://git.io/typing-svg)
 
 <div id="header" align="center">
 <div id="badges">
