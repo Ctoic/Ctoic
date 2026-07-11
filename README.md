@@ -23,6 +23,18 @@
 
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
 
+  
+  <div align="center">
+    <h3>Project Management Skills Demonstrated</h3>
+    <p>• <strong>Multi-Project Coordination:</strong> Managing 141 repositories</p>
+    <p>• <strong>Team Collaboration:</strong> Working with 283 unique contributors</p>
+    <p>• <strong>Open Source Leadership:</strong> 136 collaborative projects</p>
+    <p>• <strong>Code Quality:</strong> 27045 total contributions across projects</p>
+    <p>• <strong>Technology Management:</strong> Coordinating teams across multiple tech stacks</p>
+    <p>• <strong>Community Building:</strong> Fostering collaboration in open source projects</p>
+  </div>
+</div>
+
 <h2 align="center"> Hacktoberfest Badges 🏆</h2>
   
 [![An image of @ctoic's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ctoic)](https://holopin.io/@ctoic)
@@ -126,17 +138,7 @@
   
   
 
-  
-  <div align="center">
-    <h3>🚀 Project Management Skills Demonstrated</h3>
-    <p>• <strong>Multi-Project Coordination:</strong> Managing 141 repositories</p>
-    <p>• <strong>Team Collaboration:</strong> Working with 283 unique contributors</p>
-    <p>• <strong>Open Source Leadership:</strong> 136 collaborative projects</p>
-    <p>• <strong>Code Quality:</strong> 27045 total contributions across projects</p>
-    <p>• <strong>Technology Management:</strong> Coordinating teams across multiple tech stacks</p>
-    <p>• <strong>Community Building:</strong> Fostering collaboration in open source projects</p>
-  </div>
-</div>
+
 
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
 
